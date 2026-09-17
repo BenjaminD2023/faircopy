@@ -1,0 +1,2545 @@
+[
+  {
+    "id": "chemistry-of-life",
+    "title": "Chemistry of Life",
+    "sourceTitle": "THE CHEMISTRY OF LIFE & PROPERTIES OF WATER",
+    "cards": [
+      {
+        "term": "acid",
+        "definition": "molecule that donates hydrogen ions and increases the concentration of hydrogen ions in a solution"
+      },
+      {
+        "term": "adhesion",
+        "definition": "attraction between water molecules and other molecules"
+      },
+      {
+        "term": "anion",
+        "definition": "negative ion that is formed by an atom gaining one or more electrons"
+      },
+      {
+        "term": "aromatic hydrocarbon",
+        "definition": "hydrocarbon consisting of closed rings of carbon atoms"
+      },
+      {
+        "term": "atom",
+        "definition": "the smallest unit of matter that retains all of the chemical properties of an element"
+      },
+      {
+        "term": "atomic mass",
+        "definition": "calculated mean of the mass number for an element’s isotopes"
+      },
+      {
+        "term": "atomic number",
+        "definition": "total number of protons in an atom"
+      },
+      {
+        "term": "balanced chemical equation",
+        "definition": "statement of a chemical reaction with the number of each type of atom equalized for both the products and reactants"
+      },
+      {
+        "term": "base",
+        "definition": "molecule that donates hydroxide ions or otherwise binds excess hydrogen ions and decreases the concentration of hydrogen ions in a solution"
+      },
+      {
+        "term": "buffer",
+        "definition": "substance that resists a change in pH by absorbing or releasing hydrogen or hydroxide ions"
+      },
+      {
+        "term": "calorie",
+        "definition": "amount of heat required to change the temperature of one gram of water by one degree Celsius"
+      },
+      {
+        "term": "capillary action",
+        "definition": "occurs because water molecules are attracted to charges on the inner surfaces of narrow tubular structures such as glass tubes, drawing the water molecules to the sides of the tubes"
+      },
+      {
+        "term": "cation",
+        "definition": "positive ion that is formed by an atom losing one or more electrons"
+      },
+      {
+        "term": "chemical bond",
+        "definition": "interaction between two or more of the same or different atoms that results in the formation of molecules"
+      },
+      {
+        "term": "chemical reaction",
+        "definition": "process leading to the rearrangement of atoms in molecules"
+      },
+      {
+        "term": "chemical reactivity",
+        "definition": "the ability to combine and to chemically bond with each other"
+      },
+      {
+        "term": "cohesion",
+        "definition": "intermolecular forces between water molecules caused by the polar nature of water; responsible for surface tension"
+      },
+      {
+        "term": "compound",
+        "definition": "substance composed of molecules consisting of atoms of at least two different elements"
+      },
+      {
+        "term": "covalent bond",
+        "definition": "type of strong bond formed between two atoms of the same or different elements; forms when electrons are shared between atoms"
+      },
+      {
+        "term": "dissociation",
+        "definition": "release of an ion from a molecule such that the original molecule now consists of an ion and the charged remains of the original, such as when water dissociates into H⁺ and OH⁻"
+      },
+      {
+        "term": "electrolyte",
+        "definition": "ion necessary for nerve impulse conduction, muscle contractions and water balance"
+      },
+      {
+        "term": "electron",
+        "definition": "negatively charged subatomic particle that resides outside of the nucleus in the electron orbital; lacks functional mass and has a negative charge of −1 unit"
+      },
+      {
+        "term": "electron configuration",
+        "definition": "arrangement of electrons in an atom’s electron shell (for example, 1s² 2s² 2p⁶)"
+      },
+      {
+        "term": "electron orbital",
+        "definition": "how electrons are spatially distributed surrounding the nucleus; the area where an electron is most likely to be found"
+      },
+      {
+        "term": "electron transfer",
+        "definition": "movement of electrons from one element to another; important in creation of ionic bonds"
+      },
+      {
+        "term": "electronegativity",
+        "definition": "ability of some elements to attract electrons (often of hydrogen atoms), acquiring partial negative charges in molecules and creating partial positive charges on the hydrogen atoms"
+      },
+      {
+        "term": "element",
+        "definition": "one of 118 unique substances that cannot be broken down into smaller substances; each element has unique properties and a specified number of protons"
+      },
+      {
+        "term": "enantiomers",
+        "definition": "molecules that share overall structure and bonding patterns, but differ in how the atoms are three dimensionally placed such that they are mirror images of each other"
+      },
+      {
+        "term": "equilibrium",
+        "definition": "steady state of relative reactant and product concentration in reversible chemical reactions in a closed system"
+      },
+      {
+        "term": "evaporation",
+        "definition": "separation of individual molecules from the surface of a body of water, leaves of a plant, or the skin of an organism"
+      },
+      {
+        "term": "functional group",
+        "definition": "group of atoms that provides or imparts a specific function to a carbon skeleton"
+      },
+      {
+        "term": "geometric isomer",
+        "definition": "isomer with similar bonding patterns differing in the placement of atoms alongside a double covalent bond"
+      },
+      {
+        "term": "heat of vaporization of water",
+        "definition": "high amount of energy required for liquid water to turn into water vapor"
+      },
+      {
+        "term": "hydrocarbon",
+        "definition": "molecule that consists only of carbon and hydrogen"
+      },
+      {
+        "term": "hydrogen bond",
+        "definition": "weak bond between slightly positively charged hydrogen atoms and slightly negatively charged atoms in other molecules"
+      },
+      {
+        "term": "hydrophilic",
+        "definition": "describes ions or polar molecules that interact well with other polar molecules such as water"
+      },
+      {
+        "term": "hydrophobic",
+        "definition": "describes uncharged non-polar molecules that do not interact well with polar molecules such as water"
+      },
+      {
+        "term": "inert gas",
+        "definition": "(also, noble gas) element with filled outer electron shell that is unreactive with other atoms"
+      },
+      {
+        "term": "ion",
+        "definition": "atom or chemical group that does not contain equal numbers of protons and electrons"
+      },
+      {
+        "term": "ionic bond",
+        "definition": "chemical bond that forms between ions with opposite charges (cations and anions)"
+      },
+      {
+        "term": "irreversible chemical reaction",
+        "definition": "chemical reaction where reactants proceed uni-directionally to form products"
+      },
+      {
+        "term": "isomers",
+        "definition": "molecules that differ from one another even though they share the same chemical formula"
+      },
+      {
+        "term": "isotope",
+        "definition": "one or more forms of an element that have different numbers of neutrons"
+      },
+      {
+        "term": "mass number",
+        "definition": "total number of protons and neutrons in an atom"
+      },
+      {
+        "term": "matter",
+        "definition": "anything that has mass and occupies space"
+      },
+      {
+        "term": "molecule",
+        "definition": "two or more atoms chemically bonded together"
+      },
+      {
+        "term": "neutron",
+        "definition": "uncharged particle that resides in the nucleus of an atom; has a mass of one amu"
+      },
+      {
+        "term": "noble gas",
+        "definition": "see inert gas"
+      },
+      {
+        "term": "nonpolar covalent bond",
+        "definition": "type of covalent bond that forms between atoms when electrons are shared equally between them"
+      },
+      {
+        "term": "nucleus",
+        "definition": "core of an atom; contains protons and neutrons"
+      },
+      {
+        "term": "organic molecule",
+        "definition": "any molecule containing carbon (except carbon dioxide)"
+      },
+      {
+        "term": "periodic table",
+        "definition": "organizational chart of elements indicating the atomic number and atomic mass of each element; provides key information about the properties of the elements"
+      },
+      {
+        "term": "pH paper",
+        "definition": "see litmus paper"
+      },
+      {
+        "term": "pH scale",
+        "definition": "scale ranging from zero to 14 that is inversely proportional to the concentration of hydrogen ions in a solution"
+      },
+      {
+        "term": "polar covalent bond",
+        "definition": "type of covalent bond that forms as a result of unequal sharing of electrons, resulting in the creation of slightly positive and slightly negative charged regions of the molecule"
+      },
+      {
+        "term": "product",
+        "definition": "molecule found on the right side of a chemical equation"
+      },
+      {
+        "term": "proton",
+        "definition": "positively charged particle that resides in the nucleus of an atom; has a mass of one amu and a charge of +1"
+      },
+      {
+        "term": "radioisotope",
+        "definition": "isotope that emits radiation composed of subatomic particles to form more stable elements"
+      },
+      {
+        "term": "reactant",
+        "definition": "molecule found on the left side of a chemical equation"
+      },
+      {
+        "term": "reversible chemical reaction",
+        "definition": "chemical reaction that functions bi-directionally, where products may turn into reactants if their concentration is great enough"
+      },
+      {
+        "term": "solvent",
+        "definition": "substance capable of dissolving another substance"
+      },
+      {
+        "term": "specific heat capacity",
+        "definition": "the amount of heat one gram of a substance must absorb or lose to change its temperature by one degree Celsius"
+      },
+      {
+        "term": "sphere of hydration",
+        "definition": "when polar water molecules surround charged or polar molecules thus keeping them dissolved and in solution"
+      },
+      {
+        "term": "structural isomers",
+        "definition": "molecules that share a chemical formula but differ in the placement of their chemical bonds"
+      },
+      {
+        "term": "substituted hydrocarbon",
+        "definition": "hydrocarbon chain or ring containing an atom of another element in place of one of the backbone carbons"
+      },
+      {
+        "term": "surface tension",
+        "definition": "tension at the surface of a body of liquid that prevents the molecules from separating; created by the attractive cohesive forces between the molecules of the liquid"
+      },
+      {
+        "term": "valence shell",
+        "definition": "outermost shell of an atom"
+      },
+      {
+        "term": "van der Waals interaction",
+        "definition": "very weak interaction between molecules due to temporary charges attracting atoms that are very close together"
+      }
+    ]
+  },
+  {
+    "id": "macromolecules",
+    "title": "Macromolecules",
+    "sourceTitle": "MACROMOLECULES",
+    "cards": [
+      {
+        "term": "alpha-helix structure (α-helix)",
+        "definition": "type of secondary structure of proteins formed by folding of the polypeptide into a helix shape with hydrogen bonds stabilizing the structure"
+      },
+      {
+        "term": "amino acid",
+        "definition": "monomer of a protein; has a central carbon or alpha carbon to which an amino group, a carboxyl group, a hydrogen, and an R group or side chain is attached; the R group is different for the most common 20 amino acids"
+      },
+      {
+        "term": "beta-pleated sheet (β-pleated)",
+        "definition": "secondary structure found in proteins in which “pleats” are formed by hydrogen bonding between atoms on the backbone of the polypeptide chain"
+      },
+      {
+        "term": "biological macromolecule",
+        "definition": "large molecule necessary for life that is built from smaller organic molecules"
+      },
+      {
+        "term": "carbohydrate",
+        "definition": "biological macromolecule in which the ratio of carbon to hydrogen and to oxygen is 1:2:1; carbohydrates serve as energy sources and structural support in cells and form the a cellular exoskeleton of arthropods"
+      },
+      {
+        "term": "cellulose",
+        "definition": "polysaccharide that makes up the cell wall of plants; provides structural support to the cell"
+      },
+      {
+        "term": "chitin",
+        "definition": "type of carbohydrate that forms the outer skeleton of all arthropods that include crustaceans and insects; it also forms the cell walls of fungi"
+      },
+      {
+        "term": "dehydration synthesis",
+        "definition": "(also, condensation) reaction that links monomer molecules together, releasing a molecule of water for each bond formed"
+      },
+      {
+        "term": "denaturation",
+        "definition": "loss of shape in a protein as a result of changes in temperature, pH, or exposure to chemicals"
+      },
+      {
+        "term": "deoxyribonucleic acid (DNA)",
+        "definition": "double-helical molecule that carries the hereditary information of the cell"
+      },
+      {
+        "term": "disaccharide",
+        "definition": "two sugar monomers that are linked together by a glycosidic bond"
+      },
+      {
+        "term": "enzyme",
+        "definition": "catalyst in a biochemical reaction that is usually a complex or conjugated protein"
+      },
+      {
+        "term": "glycogen",
+        "definition": "storage carbohydrate in animals"
+      },
+      {
+        "term": "glycosidic bond",
+        "definition": "bond formed by a dehydration reaction between two monosaccharides with the elimination of a water molecule"
+      },
+      {
+        "term": "hormone",
+        "definition": "chemical signaling molecule, usually protein or steroid, secreted by endocrine cells that act to control or regulate specific physiological processes"
+      },
+      {
+        "term": "hydrolysis",
+        "definition": "reaction that causes breakdown of larger molecules into smaller molecules with the utilization of water"
+      },
+      {
+        "term": "lipid",
+        "definition": "macromolecule that is nonpolar and insoluble in water"
+      },
+      {
+        "term": "messenger RNA (mRNA)",
+        "definition": "RNA that carries information from DNA to ribosomes during protein synthesis"
+      },
+      {
+        "term": "monomer",
+        "definition": "smallest unit of larger molecules called polymers"
+      },
+      {
+        "term": "monosaccharide",
+        "definition": "single unit or monomer of carbohydrates"
+      },
+      {
+        "term": "nucleic acid",
+        "definition": "biological macromolecule that carries the genetic blueprint of a cell and carries instructions for the functioning of the cell"
+      },
+      {
+        "term": "nucleotide",
+        "definition": "monomer of nucleic acids; contains a pentose sugar, one or more phosphate groups, and a nitrogenous base"
+      },
+      {
+        "term": "peptide bond",
+        "definition": "bond formed between two amino acids by a dehydration reaction"
+      },
+      {
+        "term": "phosphodiester linkage",
+        "definition": "covalent chemical bond that holds together the polynucleotide chains, with a phosphate group linking two pentose sugars of neighboring nucleotides"
+      },
+      {
+        "term": "phospholipid",
+        "definition": "major constituent of the membranes; composed of two fatty acids and a phosphate- containing group attached to a glycerol backbone"
+      },
+      {
+        "term": "polymer",
+        "definition": "chain of monomer residues that is linked by covalent bonds; polymerization is the process of polymer formation from monomers by condensation"
+      },
+      {
+        "term": "polynucleotide",
+        "definition": "long chain of nucleotides"
+      },
+      {
+        "term": "polypeptide",
+        "definition": "long chain of amino acids linked by peptide bonds"
+      },
+      {
+        "term": "polysaccharide",
+        "definition": "long chain of monosaccharides; may be branched or unbranched"
+      },
+      {
+        "term": "primary structure",
+        "definition": "linear sequence of amino acids in a protein"
+      },
+      {
+        "term": "protein",
+        "definition": "biological macromolecule composed of one or more chains of amino acids"
+      },
+      {
+        "term": "purine",
+        "definition": "type of nitrogenous base in DNA and RNA; adenine and guanine are purines"
+      },
+      {
+        "term": "pyrimidine",
+        "definition": "type of nitrogenous base in DNA and RNA; cytosine, thymine, and uracil are pyrimidines"
+      },
+      {
+        "term": "quaternary structure",
+        "definition": "association of discrete polypeptide subunits in a protein"
+      },
+      {
+        "term": "ribonucleic acid (RNA)",
+        "definition": "single-stranded, often internally base paired, molecule that is involved in protein synthesis"
+      },
+      {
+        "term": "ribosomal RNA (rRNA)",
+        "definition": "RNA that ensures the proper alignment of the mRNA and the ribosomes during protein synthesis and catalyzes the formation of the peptide linkage"
+      },
+      {
+        "term": "saturated fatty acid",
+        "definition": "long-chain of hydrocarbon with single covalent bonds in the carbon chain; the number of hydrogen atoms attached to the carbon skeleton is maximized"
+      },
+      {
+        "term": "secondary structure",
+        "definition": "regular structure formed by proteins by intramolecular hydrogen bonding between the oxygen atom of one amino acid residue and the hydrogen attached to the nitrogen atom of another amino acid residue"
+      },
+      {
+        "term": "starch",
+        "definition": "storage carbohydrate in plants"
+      },
+      {
+        "term": "steroid",
+        "definition": "type of lipid composed of four fused hydrocarbon rings forming a planar structure"
+      },
+      {
+        "term": "tertiary structure",
+        "definition": "three-dimensional conformation of a protein, including interactions between secondary structural elements; formed from interactions between amino acid side chains"
+      },
+      {
+        "term": "trans fat",
+        "definition": "fat formed artificially by hydrogenating oils, leading to a different arrangement of double bond(s) than those found in naturally occurring lipids"
+      },
+      {
+        "term": "transcription",
+        "definition": "process through which messenger RNA forms on a template of DNA"
+      },
+      {
+        "term": "transfer RNA (tRNA)",
+        "definition": "RNA that carries activated amino acids to the site of protein synthesis on the ribosome"
+      },
+      {
+        "term": "translation",
+        "definition": "process through which RNA directs the formation of protein"
+      },
+      {
+        "term": "triacylglycerol (also, triglyceride)",
+        "definition": "fat molecule; consists of three fatty acids linked to a glycerol molecule"
+      },
+      {
+        "term": "unsaturated fatty acid",
+        "definition": "long-chain hydrocarbon that has one or more double bonds in the hydrocarbon chain"
+      },
+      {
+        "term": "wax",
+        "definition": "lipid made of a long-chain fatty acid that is esterified to a long-chain alcohol; serves as a protective coating on some feathers, aquatic mammal fur, and leaves"
+      }
+    ]
+  },
+  {
+    "id": "cell-structure",
+    "title": "Cell Structure",
+    "sourceTitle": "STRUCTURE AND FUNCTIONS OF CELL",
+    "cards": [
+      {
+        "term": "cell wall",
+        "definition": "rigid cell covering made of various molecules that protects the cell, provides structural support, and gives shape to the cell"
+      },
+      {
+        "term": "central vacuole",
+        "definition": "large plant cell organelle that regulates the cell’s storage compartment, holds water, and plays a significant role in cell growth as the site of macromolecule degradation"
+      },
+      {
+        "term": "centrosome",
+        "definition": "region in animal cells made of two centrioles"
+      },
+      {
+        "term": "chlorophyll",
+        "definition": "green pigment that captures the light energy that drives the light reactions of photosynthesis"
+      },
+      {
+        "term": "chloroplast",
+        "definition": "plant cell organelle that carries out photosynthesis"
+      },
+      {
+        "term": "chromatin",
+        "definition": "protein-DNA complex that serves as the building material of chromosomes"
+      },
+      {
+        "term": "chromosome",
+        "definition": "structure within the nucleus that is made up of chromatin that contains DNA, the hereditary material"
+      },
+      {
+        "term": "cilium",
+        "definition": "(plural = cilia) short, hair-like structure that extends from the plasma membrane in large numbers and is used to move an entire cell or move substances along the outer surface of the cell"
+      },
+      {
+        "term": "cytoplasm",
+        "definition": "entire region between the plasma membrane and the nuclear envelope, consisting of organelles suspended in the gel-like cytosol, the cytoskeleton, and various chemicals"
+      },
+      {
+        "term": "cytoskeleton",
+        "definition": "network of protein fibers that collectively maintain the shape of the cell, secure some organelles in specific positions, allow cytoplasm and vesicles to move within the cell, and enable unicellular organisms to move independently"
+      },
+      {
+        "term": "cytosol",
+        "definition": "gel-like material of the cytoplasm in which cell structures are suspended"
+      },
+      {
+        "term": "desmosome",
+        "definition": "linkage between adjacent epithelial cells that forms when cadherins in the plasma membrane attach to intermediate filaments"
+      },
+      {
+        "term": "electron microscope",
+        "definition": "an instrument that magnifies an object using a beam of electrons passed and bent through a lens system to visualize a specimen"
+      },
+      {
+        "term": "endomembrane system",
+        "definition": "group of organelles and membranes in eukaryotic cells that work together modifying, packaging, and transporting lipids and proteins"
+      },
+      {
+        "term": "endoplasmic reticulum (ER)",
+        "definition": "series of interconnected membranous structures within eukaryotic cells that collectively modify proteins and synthesize lipids"
+      },
+      {
+        "term": "eukaryotic cell",
+        "definition": "cell that has a membrane-bound nucleus and several other membrane-bound compartments or sacs"
+      },
+      {
+        "term": "extracellular matrix",
+        "definition": "material (primarily collagen, glycoproteins, and proteoglycans) secreted from animal cells that provides mechanical protection and anchoring for the cells in the tissue"
+      },
+      {
+        "term": "flagellum",
+        "definition": "(plural = flagella) long, hair-like structure that extends from the plasma membrane and is used to move the cell"
+      },
+      {
+        "term": "gap junction",
+        "definition": "channel between two adjacent animal cells that allows ions, nutrients, and low molecular weight substances to pass between cells, enabling the cells to communicate"
+      },
+      {
+        "term": "Golgi apparatus",
+        "definition": "eukaryotic organelle made up of a series of stacked membranes that sorts, tags, and packages lipids and proteins for distribution"
+      },
+      {
+        "term": "intermediate filament",
+        "definition": "cytoskeletal component, composed of several intertwined strands of fibrous protein, that bears tension, supports cell-cell junctions, and anchors cells to extracellular structures"
+      },
+      {
+        "term": "light microscope",
+        "definition": "an instrument that magnifies an object using a beam visible light passed and bent through a lens system to visualize a specimen"
+      },
+      {
+        "term": "lysosome",
+        "definition": "organelle in an animal cell that functions as the cell’s digestive component; it breaks down proteins, polysaccharides, lipids, nucleic acids, and even worn-out organelles"
+      },
+      {
+        "term": "microfilament",
+        "definition": "narrowest element of the cytoskeleton system; it provides rigidity and shape to the cell and enables cellular movements"
+      },
+      {
+        "term": "microscope",
+        "definition": "an instrument that magnifies an object"
+      },
+      {
+        "term": "microtubule",
+        "definition": "widest element of the cytoskeleton system; it helps the cell resist compression, provides a track along which vesicles move through the cell, pulls replicated chromosomes to opposite ends of a dividing cell, and is the structural element of centrioles, flagella, and cilia"
+      },
+      {
+        "term": "mitochondria",
+        "definition": "(singular = mitochondrion) cellular organelles responsible for carrying out cellular respiration, resulting in the production of ATP, the cell’s main energy-carrying molecule"
+      },
+      {
+        "term": "nuclear envelope",
+        "definition": "double-membrane structure that constitutes the outermost portion of the nucleus"
+      },
+      {
+        "term": "nucleoid",
+        "definition": "central part of a prokaryotic cell in which the chromosome is found"
+      },
+      {
+        "term": "nucleolus",
+        "definition": "darkly staining body within the nucleus that is responsible for assembling the subunits of the ribosomes"
+      },
+      {
+        "term": "nucleoplasm",
+        "definition": "semi-solid fluid inside the nucleus that contains the chromatin and nucleolus"
+      },
+      {
+        "term": "nucleus",
+        "definition": "cell organelle that houses the cell’s DNA and directs the synthesis of ribosomes and proteins"
+      },
+      {
+        "term": "organelle",
+        "definition": "compartment or sac within a cell"
+      },
+      {
+        "term": "peroxisome",
+        "definition": "small, round organelle that contains hydrogen peroxide, oxidizes fatty acids and amino acids, and detoxifies many poisons"
+      },
+      {
+        "term": "plasma membrane",
+        "definition": "phospholipid bilayer with embedded (integral) or attached (peripheral) proteins, that separates the internal content of the cell from its surrounding environment"
+      },
+      {
+        "term": "plasmodesma",
+        "definition": "(plural = plasmodesmata) channel that passes between the cell walls of adjacent plant cells, connects their cytoplasm, and allows materials to be transported from cell to cell"
+      },
+      {
+        "term": "prokaryote",
+        "definition": "unicellular organism that lacks a nucleus or any other membrane-bound organelle"
+      },
+      {
+        "term": "ribosome",
+        "definition": "cellular structure that carries out protein synthesis"
+      },
+      {
+        "term": "rough endoplasmic reticulum (RER)",
+        "definition": "region of the endoplasmic reticulum that is studded with ribosomes and engages in protein modification and phospholipid synthesis"
+      },
+      {
+        "term": "smooth endoplasmic reticulum (SER)",
+        "definition": "region of the endoplasmic reticulum that has few or no ribosomes on its cytoplasmic surface and synthesizes carbohydrates, lipids, and steroid hormones; detoxifies certain chemicals (like pesticides, preservatives, medications, and environmental pollutants), and stores calcium ions"
+      },
+      {
+        "term": "tight junction",
+        "definition": "firm seal between two adjacent animal cells created by protein adherence"
+      },
+      {
+        "term": "unified cell theory",
+        "definition": "a biological concept that states that all organisms are composed of one or more cells; the cell is the basic unit of life; and new cells arise from existing cells"
+      },
+      {
+        "term": "vacuole",
+        "definition": "membrane-bound sac, somewhat larger than a vesicle, which functions in cellular storage and transport"
+      },
+      {
+        "term": "vesicle",
+        "definition": "small, membrane-bound sac that functions in cellular storage and transport; its membrane is capable of fusing with the plasma membrane and the membranes of the endoplasmic reticulum and Golgi apparatus"
+      }
+    ]
+  },
+  {
+    "id": "membrane-transport",
+    "title": "Membrane Transport",
+    "sourceTitle": "MEMBRANE TRANSPORT",
+    "cards": [
+      {
+        "term": "active transport",
+        "definition": "method of transporting material that requires energy"
+      },
+      {
+        "term": "antiporter",
+        "definition": "transporter that carries two ions or small molecules in different directions"
+      },
+      {
+        "term": "aquaporin",
+        "definition": "channel protein that allows water through the membrane at a very high rate"
+      },
+      {
+        "term": "carrier protein",
+        "definition": "membrane protein that moves a substance across the plasma membrane by changing its own shape"
+      },
+      {
+        "term": "channel protein",
+        "definition": "membrane protein that allows a substance to pass through its hollow core across the plasma membrane"
+      },
+      {
+        "term": "concentration gradient",
+        "definition": "area of high concentration adjacent to an area of low concentration"
+      },
+      {
+        "term": "diffusion",
+        "definition": "passive process of transport of low-molecular weight material according to its concentration gradient"
+      },
+      {
+        "term": "electrochemical gradient",
+        "definition": "gradient produced by the combined forces of an electrical gradient and a chemical gradient"
+      },
+      {
+        "term": "electrogenic pump",
+        "definition": "pump that creates a charge imbalance"
+      },
+      {
+        "term": "endocytosis",
+        "definition": "type of active transport that moves substances, including fluids and particles, into a cell"
+      },
+      {
+        "term": "exocytosis",
+        "definition": "process of passing bulk material out of a cell"
+      },
+      {
+        "term": "facilitated transport",
+        "definition": "process by which material moves down a concentration gradient (from high to low concentration) using integral membrane proteins"
+      },
+      {
+        "term": "fluid mosaic model",
+        "definition": "describes the structure of the plasma membrane as a mosaic of components including phospholipids, cholesterol, proteins, glycoproteins, and glycolipids (sugar chains attached to proteins or lipids, respectively), resulting in a fluid character (fluidity)"
+      },
+      {
+        "term": "glycolipid",
+        "definition": "combination of carbohydrates and lipids"
+      },
+      {
+        "term": "glycoprotein",
+        "definition": "combination of carbohydrates and proteins"
+      },
+      {
+        "term": "hydrophilic",
+        "definition": "molecule with the ability to bond with water; “water-loving”"
+      },
+      {
+        "term": "hydrophobic",
+        "definition": "molecule that does not have the ability to bond with water; “water-hating”"
+      },
+      {
+        "term": "hypertonic",
+        "definition": "situation in which extracellular fluid has a higher osmolarity than the fluid inside the cell, resulting in water moving out of the cell"
+      },
+      {
+        "term": "hypotonic",
+        "definition": "situation in which extracellular fluid has a lower osmolarity than the fluid inside the cell, resulting in water moving into the cell"
+      },
+      {
+        "term": "integral protein",
+        "definition": "protein integrated into the membrane structure that interacts extensively with the hydrocarbon chains of membrane lipids and often spans the membrane; these proteins can be removed only by the disruption of the membrane by detergents"
+      },
+      {
+        "term": "isotonic",
+        "definition": "situation in which the extracellular fluid has the same osmolarity as the fluid inside the cell, resulting in no net movement of water into or out of the cell"
+      },
+      {
+        "term": "osmolarity",
+        "definition": "total amount of solutes dissolved in a specific amount of solution"
+      },
+      {
+        "term": "osmosis",
+        "definition": "transport of water through a semipermeable membrane according to the concentration gradient of water across the membrane that results from the presence of solute that cannot pass through the membrane"
+      },
+      {
+        "term": "passive transport",
+        "definition": "method of transporting material through a membrane that does not require energy"
+      },
+      {
+        "term": "peripheral protein",
+        "definition": "protein found at the surface of a plasma membrane either on its exterior or interior side"
+      },
+      {
+        "term": "pinocytosis",
+        "definition": "a variation of endocytosis that imports macromolecules that the cell needs from the extracellular fluid"
+      },
+      {
+        "term": "plasmolysis",
+        "definition": "detaching of the cell membrane from the cell wall and constriction of the cell membrane when a plant cell is in a hypertonic solution"
+      },
+      {
+        "term": "primary active transport",
+        "definition": "active transport that moves ions or small molecules across a membrane and may create a difference in charge across that membrane"
+      },
+      {
+        "term": "pump",
+        "definition": "active transport mechanism that works against electrochemical gradients"
+      },
+      {
+        "term": "receptor-mediated endocytosis",
+        "definition": "variation of endocytosis that involves the use of specific binding proteins in the plasma membrane for specific molecules or particles, and clathrin-coated pits that become clathrin-coated vesicles"
+      },
+      {
+        "term": "secondary active transport",
+        "definition": "movement of material that is due to the electrochemical gradient established by primary active transport"
+      },
+      {
+        "term": "selectively permeable",
+        "definition": "characteristic of a membrane that allows some substances through but not others (also known as semipermeable)"
+      },
+      {
+        "term": "solute",
+        "definition": "substance dissolved in a liquid to form a solution"
+      },
+      {
+        "term": "symporter",
+        "definition": "transporter that carries two different ions or small molecules, both in the same direction"
+      },
+      {
+        "term": "tonicity",
+        "definition": "amount of solute in a solution"
+      },
+      {
+        "term": "transport protein",
+        "definition": "membrane protein that facilitates passage of a substance across a membrane by binding it"
+      },
+      {
+        "term": "transporter",
+        "definition": "specific carrier proteins or pumps that facilitate movement"
+      },
+      {
+        "term": "uniporter",
+        "definition": "transporter that carries one specific ion or molecule"
+      }
+    ]
+  },
+  {
+    "id": "bioenergetics",
+    "title": "Bioenergetics",
+    "sourceTitle": "BIOENERGETICS",
+    "cards": [
+      {
+        "term": "activation energy",
+        "definition": "energy necessary for reactions to occur"
+      },
+      {
+        "term": "active site",
+        "definition": "specific region of the enzyme to which the substrate binds"
+      },
+      {
+        "term": "allosteric inhibition",
+        "definition": "inhibition by a binding event at a site different from the active site, which induces a conformational change and reduces the affinity of the enzyme for its substrate"
+      },
+      {
+        "term": "anabolic",
+        "definition": "(also, anabolism) pathways that require an input of energy to synthesize complex molecules from simpler ones"
+      },
+      {
+        "term": "ATP",
+        "definition": "adenosine triphosphate, the cell’s energy currency"
+      },
+      {
+        "term": "bioenergetics",
+        "definition": "study of energy flowing through living systems"
+      },
+      {
+        "term": "catabolic",
+        "definition": "(also, catabolism) pathways in which complex molecules are broken down into simpler ones"
+      },
+      {
+        "term": "chemical energy",
+        "definition": "potential energy in chemical bonds that is released when those bonds are broken"
+      },
+      {
+        "term": "coenzyme",
+        "definition": "small organic molecule, such as a vitamin or its derivative, which is required to enhance the activity of an enzyme"
+      },
+      {
+        "term": "cofactor",
+        "definition": "inorganic ion, such as iron and magnesium ions, required for optimal regulation of enzyme activity"
+      },
+      {
+        "term": "competitive inhibition",
+        "definition": "type of inhibition in which the inhibitor competes with the substrate molecule by binding to the active site of the enzyme"
+      },
+      {
+        "term": "denature",
+        "definition": "process that changes the natural properties of a substance"
+      },
+      {
+        "term": "endergonic",
+        "definition": "describes chemical reactions that require energy input"
+      },
+      {
+        "term": "energy coupling",
+        "definition": "process during which energy released by one reaction is used to drive another reaction"
+      },
+      {
+        "term": "enthalpy",
+        "definition": "total energy of a system"
+      },
+      {
+        "term": "entropy (S)",
+        "definition": "measure of randomness or disorder within a system"
+      },
+      {
+        "term": "exergonic",
+        "definition": "describes chemical reactions that release free energy"
+      },
+      {
+        "term": "feedback inhibition",
+        "definition": "effect of a product of a reaction sequence to decrease its further production by inhibiting the activity of the first enzyme in the pathway that produces it"
+      },
+      {
+        "term": "free energy",
+        "definition": "Gibbs free energy is the usable energy, or energy that is available to do work."
+      },
+      {
+        "term": "heat",
+        "definition": "energy energy transferred from one system to another that is not work (energy of the motion of molecules or particles)"
+      },
+      {
+        "term": "heat energy",
+        "definition": "total bond energy of reactants or products in a chemical reaction"
+      },
+      {
+        "term": "in vitro",
+        "definition": "taking place in a test tube, culture dish, or elsewhere outside a living organism"
+      },
+      {
+        "term": "induced fit",
+        "definition": "dynamic fit between the enzyme and its substrate, in which both components modify their structures to allow for ideal binding"
+      },
+      {
+        "term": "kinetic energy",
+        "definition": "type of energy associated with objects or particles in motion"
+      },
+      {
+        "term": "metabolism",
+        "definition": "all the chemical reactions that take place inside cells, including anabolism and catabolism"
+      },
+      {
+        "term": "phosphoanhydride bond",
+        "definition": "bond that connects phosphates in an ATP molecule"
+      },
+      {
+        "term": "potential energy",
+        "definition": "type of energy that has the potential to do work; stored energy"
+      },
+      {
+        "term": "substrate",
+        "definition": "molecule on which the enzyme acts"
+      },
+      {
+        "term": "thermodynamics",
+        "definition": "study of energy and energy transfer involving physical matter"
+      },
+      {
+        "term": "transition state",
+        "definition": "high-energy, unstable state (an intermediate form between the substrate and the product) occurring during a chemical reaction"
+      }
+    ]
+  },
+  {
+    "id": "cellular-respiration",
+    "title": "Cellular Respiration",
+    "sourceTitle": "CELLULAR RESPIRATION",
+    "cards": [
+      {
+        "term": "acetyl CoA",
+        "definition": "combination of an acetyl group derived from pyruvic acid and coenzyme A, which is made from pantothenic acid (a B-group vitamin)"
+      },
+      {
+        "term": "aerobic respiration",
+        "definition": "process in which organisms convert energy in the presence of oxygen"
+      },
+      {
+        "term": "anaerobic",
+        "definition": "process that does not use oxygen"
+      },
+      {
+        "term": "anaerobic cellular respiration",
+        "definition": "process in which organisms convert energy for their use in the absence of oxygen"
+      },
+      {
+        "term": "ATP synthase",
+        "definition": "(also, F1F0 ATP synthase) membrane-embedded protein complex that adds a phosphate to ADP with energy from protons diffusing through it"
+      },
+      {
+        "term": "chemiosmosis",
+        "definition": "process in which there is a production of adenosine triphosphate (ATP) in cellular metabolism by the involvement of a proton gradient across a membrane"
+      },
+      {
+        "term": "citric acid cycle",
+        "definition": "(also, Krebs cycle) series of enzyme-catalyzed chemical reactions of central importance in all living cells"
+      },
+      {
+        "term": "dephosphorylation",
+        "definition": "removal of a phosphate group from a molecule"
+      },
+      {
+        "term": "fermentation",
+        "definition": "process of regenerating NAD+ with either an inorganic or organic compound serving as the final electron acceptor; occurs in the absence of oxygen"
+      },
+      {
+        "term": "glycolysis",
+        "definition": "process of breaking glucose into two three-carbon molecules with the production of ATP and NADH"
+      },
+      {
+        "term": "Krebs cycle",
+        "definition": "(also, citric acid cycle) alternate name for the citric acid cycle, named after Hans Krebs who first identified the steps in the pathway in the 1930s in pigeon flight muscles; see citric acid cycle"
+      },
+      {
+        "term": "oxidative phosphorylation",
+        "definition": "production of ATP using the process of chemiosmosis and oxygen"
+      },
+      {
+        "term": "phosphorylation",
+        "definition": "addition of a high-energy phosphate to a compound, usually a metabolic intermediate, a protein, or ADP"
+      },
+      {
+        "term": "pyruvate",
+        "definition": "three-carbon sugar that can be decarboxylated and oxidized to make acetyl CoA, which enters the citric acid cycle under aerobic conditions; the end product of glycolysis"
+      },
+      {
+        "term": "redox reaction",
+        "definition": "chemical reaction that consists of the coupling of an oxidation reaction and a reduction reaction"
+      },
+      {
+        "term": "substrate-level phosphorylation",
+        "definition": "production of ATP from ADP using the excess energy from a chemical reaction and a phosphate group from a reactant"
+      },
+      {
+        "term": "TCA cycle",
+        "definition": "(also, citric acid cycle) alternate name for the citric acid cycle, named after the group name for citric acid, tricarboxylic acid (TCA); see citric acid cycle"
+      }
+    ]
+  },
+  {
+    "id": "photosynthesis",
+    "title": "Photosynthesis",
+    "sourceTitle": "PHOTOSYNTHESIS",
+    "cards": [
+      {
+        "term": "absorption spectrum",
+        "definition": "range of wavelengths of electromagnetic radiation absorbed by a given substance"
+      },
+      {
+        "term": "Calvin cycle",
+        "definition": "light-independent reactions of photosynthesis that convert carbon dioxide from the atmosphere into carbohydrates using the energy and reducing power of ATP and NADPH"
+      },
+      {
+        "term": "carbon fixation",
+        "definition": "process of converting inorganic CO2 gas into organic compounds"
+      },
+      {
+        "term": "chemoautotroph",
+        "definition": "organism that can build organic molecules using energy derived from inorganic chemicals instead of sunlight"
+      },
+      {
+        "term": "chloroplast",
+        "definition": "organelle in which photosynthesis takes place"
+      },
+      {
+        "term": "cytochrome complex",
+        "definition": "group of reversibly oxidizable and reducible proteins that forms part of the electron transport chain between photosystem II and photosystem I"
+      },
+      {
+        "term": "electromagnetic spectrum",
+        "definition": "range of all possible frequencies of radiation"
+      },
+      {
+        "term": "electron transport chain",
+        "definition": "group of proteins between PSII and PSI that pass energized electrons and use the energy released by the electrons to move hydrogen ions against their concentration gradient into the thylakoid lumen"
+      },
+      {
+        "term": "granum",
+        "definition": "stack of thylakoids located inside a chloroplast"
+      },
+      {
+        "term": "heterotroph",
+        "definition": "organism that consumes organic substances or other organisms for food"
+      },
+      {
+        "term": "light harvesting complex",
+        "definition": "complex that passes energy from sunlight to the reaction center in each photosystem; it consists of multiple antenna pigments that contain a mixture of 300– 400 chlorophyll a and b molecules as well as other pigments like carotenoids"
+      },
+      {
+        "term": "light-dependent reaction",
+        "definition": "first stage of photosynthesis where certain wavelengths of the visible light are absorbed to form two energy-carrying molecules (ATP and NADPH)"
+      },
+      {
+        "term": "light-independent reaction",
+        "definition": "second stage of photosynthesis, though which carbon dioxide is used to build carbohydrate molecules using energy from ATP and NADPH"
+      },
+      {
+        "term": "mesophyll",
+        "definition": "middle layer of chlorophyll-rich cells in a leaf"
+      },
+      {
+        "term": "P680",
+        "definition": "reaction center of photosystem II"
+      },
+      {
+        "term": "P700",
+        "definition": "reaction center of photosystem I"
+      },
+      {
+        "term": "photoautotroph",
+        "definition": "organism capable of producing its own organic compounds from sunlight"
+      },
+      {
+        "term": "photon",
+        "definition": "distinct quantity or “packet” of light energy"
+      },
+      {
+        "term": "photosystem",
+        "definition": "group of proteins, chlorophyll, and other pigments that are used in the light- dependent reactions of photosynthesis to absorb light energy and convert it into chemical energy"
+      },
+      {
+        "term": "photosystem I",
+        "definition": "integral pigment and protein complex in thylakoid membranes that uses light energy to transport electrons from plastocyanin to NADP+ (which becomes reduced to NADPH in the process)"
+      },
+      {
+        "term": "photosystem II",
+        "definition": "integral protein and pigment complex in thylakoid membranes that transports electrons from water to the electron transport chain; oxygen is a product of PSII"
+      },
+      {
+        "term": "pigment",
+        "definition": "molecule that is capable of absorbing certain wavelengths of light and reflecting others (which accounts for its color)"
+      },
+      {
+        "term": "primary electron acceptor",
+        "definition": "pigment or other organic molecule in the reaction center that accepts an energized electron from the reaction center"
+      },
+      {
+        "term": "reaction center",
+        "definition": "complex of chlorophyll molecules and other organic molecules that is assembled around a special pair of chlorophyll molecules and a primary electron acceptor; capable of undergoing oxidation and reduction"
+      },
+      {
+        "term": "reduction",
+        "definition": "gain of electron(s) by an atom or molecule"
+      },
+      {
+        "term": "stoma",
+        "definition": "opening that regulates gas exchange and water evaporation between leaves and the environment, typically situated on the underside of leaves"
+      },
+      {
+        "term": "stroma",
+        "definition": "fluid-filled space surrounding the grana inside a chloroplast where the light- independent reactions of photosynthesis take place"
+      },
+      {
+        "term": "thylakoid",
+        "definition": "disc-shaped, membrane-bound structure inside a chloroplast where the light- dependent reactions of photosynthesis take place; stacks of thylakoids are called grana"
+      },
+      {
+        "term": "thylakoid lumen",
+        "definition": "aqueous space bound by a thylakoid membrane where protons accumulate during light-driven electron transport"
+      },
+      {
+        "term": "wavelength",
+        "definition": "distance between consecutive points of equal position (two crests or two troughs) of a wave in a graphic representation; inversely proportional to the energy of the radiation"
+      }
+    ]
+  },
+  {
+    "id": "cell-signaling",
+    "title": "Cell Signaling",
+    "sourceTitle": "CELL SIGNALING",
+    "cards": [
+      {
+        "term": "apoptosis",
+        "definition": "programmed cell death"
+      },
+      {
+        "term": "autocrine signal",
+        "definition": "signal that is sent and received by the same or similar nearby cells"
+      },
+      {
+        "term": "autoinducer",
+        "definition": "signaling molecule secreted by bacteria to communicate with other bacteria of its kind and others"
+      },
+      {
+        "term": "cell-surface receptor",
+        "definition": "cell-surface protein that transmits a signal from the exterior of the cell to the interior, even though the ligand does not enter the cell"
+      },
+      {
+        "term": "chemical synapse",
+        "definition": "small space between axon terminals and dendrites of nerve cells where neurotransmitters function"
+      },
+      {
+        "term": "cyclic AMP (cAMP)",
+        "definition": "second messenger that is derived from ATP"
+      },
+      {
+        "term": "cyclic AMP-dependent kinase",
+        "definition": "(also, protein kinase A, or PKA) kinase that is activated by binding to cAMP"
+      },
+      {
+        "term": "dimer",
+        "definition": "chemical compound formed when two molecules join together"
+      },
+      {
+        "term": "dimerization",
+        "definition": "(of receptor proteins) interaction of two receptor proteins to form a functional complex called a dimer"
+      },
+      {
+        "term": "endocrine cell",
+        "definition": "cell that releases ligands involved in endocrine signaling (hormones)"
+      },
+      {
+        "term": "endocrine signal",
+        "definition": "long-distance signal that is delivered by ligands (hormones) traveling through an organism's circulatory system from the signaling cell to the target cell"
+      },
+      {
+        "term": "enzyme-linked receptor",
+        "definition": "cell-surface receptor with intracellular domains that are associated with membrane- bound enzymes"
+      },
+      {
+        "term": "extracellular domain",
+        "definition": "region of a cell-surface receptor that is located on the cell surface"
+      },
+      {
+        "term": "G-protein-linked receptor",
+        "definition": "cell-surface receptor that activates membrane-bound G-proteins to transmit a signal from the receptor to nearby membrane components"
+      },
+      {
+        "term": "growth factor",
+        "definition": "ligand that binds to cell-surface receptors and stimulates cell growth"
+      },
+      {
+        "term": "inhibitor",
+        "definition": "molecule that binds to a protein (usually an enzyme) and keeps it from functioning"
+      },
+      {
+        "term": "intercellular signaling",
+        "definition": "communication between cells"
+      },
+      {
+        "term": "internal receptor",
+        "definition": "(also, intracellular receptor) receptor protein that is located in the cytosol of a cell and binds to ligands that pass through the plasma membrane"
+      },
+      {
+        "term": "intracellular mediator",
+        "definition": "(also, second messenger) small molecule that transmits signals within a cell"
+      },
+      {
+        "term": "intracellular signaling",
+        "definition": "communication within cells"
+      },
+      {
+        "term": "ion channel-linked receptor",
+        "definition": "cell-surface receptor that forms a plasma membrane channel, which opens when a ligand binds to the extracellular domain (ligand-gated channels)"
+      },
+      {
+        "term": "kinase",
+        "definition": "enzyme that catalyzes the transfer of a phosphate group from ATP to another molecule"
+      },
+      {
+        "term": "ligand",
+        "definition": "molecule produced by a signaling cell that binds with a specific receptor, delivering a signal in the process"
+      },
+      {
+        "term": "mating factor",
+        "definition": "signaling molecule secreted by yeast cells to communicate to nearby yeast cells that they are available to mate and communicating their mating orientation"
+      },
+      {
+        "term": "neurotransmitter",
+        "definition": "chemical ligand that carries a signal from one nerve cell to the next"
+      },
+      {
+        "term": "paracrine signal",
+        "definition": "signal between nearby cells that is delivered by ligands traveling in the liquid medium in the space between the cells"
+      },
+      {
+        "term": "phosphatase",
+        "definition": "enzyme that removes the phosphate group from a molecule that has been previously phosphorylated"
+      },
+      {
+        "term": "phosphodiesterase",
+        "definition": "enzyme that degrades cAMP, producing AMP, to terminate signaling"
+      },
+      {
+        "term": "quorum sensing",
+        "definition": "method of cellular communication used by bacteria that informs them of the abundance of similar (or different) bacteria in the environment"
+      },
+      {
+        "term": "receptor",
+        "definition": "protein in or on a target cell that bind to ligands"
+      },
+      {
+        "term": "second messenger",
+        "definition": "small, non-protein molecule that propagates a signal within the cell after activation of a receptor causes its release"
+      },
+      {
+        "term": "signal integration",
+        "definition": "interaction of signals from two or more different cell-surface receptors that merge to activate the same response in the cell"
+      },
+      {
+        "term": "signal transduction",
+        "definition": "propagation of the signal through the cytoplasm (and sometimes also the nucleus) of the cell"
+      },
+      {
+        "term": "signaling cell",
+        "definition": "cell that releases signal molecules that allow communication with another cell"
+      },
+      {
+        "term": "signaling pathway",
+        "definition": "(also signaling cascade) chain of events that occurs in the cytoplasm of the cell to propagate the signal from the plasma membrane to produce a response"
+      },
+      {
+        "term": "synaptic signal",
+        "definition": "chemical signal (neurotransmitter) that travels between nerve cells"
+      },
+      {
+        "term": "target cell",
+        "definition": "cell that has a receptor for a signal or ligand from a signaling cell"
+      }
+    ]
+  },
+  {
+    "id": "cell-division",
+    "title": "Cell Division",
+    "sourceTitle": "CELL DIVISON",
+    "cards": [
+      {
+        "term": "anaphase",
+        "definition": "stage of mitosis during which sister chromatids are separated from each other"
+      },
+      {
+        "term": "binary fission",
+        "definition": "prokaryotic cell division process"
+      },
+      {
+        "term": "cell cycle",
+        "definition": "ordered series of events involving cell growth and cell division that produces two new daughter cells"
+      },
+      {
+        "term": "cell cycle checkpoint",
+        "definition": "mechanism that monitors the preparedness of a eukaryotic cell to advance through the various cell cycle stages"
+      },
+      {
+        "term": "cell plate",
+        "definition": "structure formed during plant cell cytokinesis by Golgi vesicles, forming a temporary structure (phragmoplast) and fusing at the metaphase plate; ultimately leads to the formation of cell walls that separate the two daughter cells"
+      },
+      {
+        "term": "centriole",
+        "definition": "rod-like structure constructed of microtubules at the center of each animal cell centrosome"
+      },
+      {
+        "term": "centromere",
+        "definition": "region at which sister chromatids are bound together; a constricted area in condensed chromosomes"
+      },
+      {
+        "term": "chromatid",
+        "definition": "single DNA molecule of two strands of duplicated DNA and associated proteins held together at the centromere"
+      },
+      {
+        "term": "cleavage furrow",
+        "definition": "constriction formed by an actin ring during cytokinesis in animal cells that leads to cytoplasmic division"
+      },
+      {
+        "term": "cyclin",
+        "definition": "one of a group of proteins that act in conjunction with cyclin-dependent kinases to help regulate the cell cycle by phosphorylating key proteins; the concentrations of cyclins fluctuate throughout the cell cycle"
+      },
+      {
+        "term": "cyclin-dependent kinase",
+        "definition": "one of a group of protein kinases that helps to regulate the cell cycle when bound to cyclin; it functions to phosphorylate other proteins that are either activated or inactivated by phosphorylation"
+      },
+      {
+        "term": "cytokinesis",
+        "definition": "division of the cytoplasm following mitosis that forms two daughter cells."
+      },
+      {
+        "term": "diploid",
+        "definition": "cell, nucleus, or organism containing two sets of chromosomes (2n)"
+      },
+      {
+        "term": "G0 phase",
+        "definition": "distinct from the G1 phase of interphase; a cell in G0 is not preparing to divide"
+      },
+      {
+        "term": "G1 phase",
+        "definition": "(also, first gap) first phase of interphase centered on cell growth during mitosis"
+      },
+      {
+        "term": "G2 phase",
+        "definition": "(also, second gap) third phase of interphase during which the cell undergoes final preparations for mitosis"
+      },
+      {
+        "term": "gamete",
+        "definition": "haploid reproductive cell or sex cell (sperm, pollen grain, or egg)"
+      },
+      {
+        "term": "gene",
+        "definition": "physical and functional unit of heredity, a sequence of DNA that codes for a protein."
+      },
+      {
+        "term": "genome",
+        "definition": "total genetic information of a cell or organism"
+      },
+      {
+        "term": "haploid",
+        "definition": "cell, nucleus, or organism containing one set of chromosomes (n)"
+      },
+      {
+        "term": "histone",
+        "definition": "one of several similar, highly conserved, low molecular weight, basic proteins found in the chromatin of all eukaryotic cells; associates with DNA to form nucleosomes"
+      },
+      {
+        "term": "homologous chromosomes",
+        "definition": "chromosomes of the same morphology with genes in the same location; diploid organisms have pairs of homologous chromosomes (homologs), with each homolog derived from a different parent"
+      },
+      {
+        "term": "interphase",
+        "definition": "period of the cell cycle leading up to mitosis; includes G1, S, and G2 phases (the interim period between two consecutive cell divisions"
+      },
+      {
+        "term": "karyokinesis",
+        "definition": "mitotic nuclear division"
+      },
+      {
+        "term": "kinetochore",
+        "definition": "protein structure associated with the centromere of each sister chromatid that attracts and binds spindle microtubules during prometaphase"
+      },
+      {
+        "term": "locus",
+        "definition": "position of a gene on a chromosome"
+      },
+      {
+        "term": "metaphase",
+        "definition": "stage of mitosis during which chromosomes are aligned at the metaphase plate"
+      },
+      {
+        "term": "metaphase plate",
+        "definition": "equatorial plane midway between the two poles of a cell where the chromosomes align during metaphase"
+      },
+      {
+        "term": "mitosis",
+        "definition": "(also, karyokinesis) period of the cell cycle during which the duplicated chromosomes are separated into identical nuclei; includes prophase, prometaphase, metaphase, anaphase, and telophase"
+      },
+      {
+        "term": "mitotic phase",
+        "definition": "period of the cell cycle during which duplicated chromosomes are distributed into two nuclei and cytoplasmic contents are divided; includes karyokinesis (mitosis) and cytokinesis"
+      },
+      {
+        "term": "mitotic spindle",
+        "definition": "apparatus composed of microtubules that orchestrates the movement of chromosomes during mitosis"
+      },
+      {
+        "term": "nucleosome",
+        "definition": "subunit of chromatin composed of a short length of DNA wrapped around a core of histone proteins"
+      },
+      {
+        "term": "oncogene",
+        "definition": "mutated version of a normal gene involved in the positive regulation of the cell cycle"
+      },
+      {
+        "term": "origin",
+        "definition": "(also, ORI) region of the prokaryotic chromosome where replication begins (origin of replication)"
+      },
+      {
+        "term": "p21",
+        "definition": "cell cycle regulatory protein that inhibits the cell cycle; its levels are controlled by p53"
+      },
+      {
+        "term": "p53",
+        "definition": "cell cycle regulatory protein that regulates cell growth and monitors DNA damage; it halts the progression of the cell cycle in cases of DNA damage and may induce apoptosis"
+      },
+      {
+        "term": "prometaphase",
+        "definition": "stage of mitosis during which the nuclear membrane breaks down and mitotic spindle fibers attach to kinetochores"
+      },
+      {
+        "term": "prophase",
+        "definition": "stage of mitosis during which chromosomes condense and the mitotic spindle begins to form"
+      },
+      {
+        "term": "proto-oncogene",
+        "definition": "normal gene that when mutated becomes an oncogene"
+      },
+      {
+        "term": "quiescent",
+        "definition": "refers to a cell that is performing normal cell functions and has not initiated preparations for cell division"
+      },
+      {
+        "term": "retinoblastoma protein (Rb)",
+        "definition": "regulatory molecule that exhibits negative effects on the cell cycle by interacting with a transcription factor (E2F)"
+      },
+      {
+        "term": "S phase",
+        "definition": "second, or synthesis, stage of interphase during which DNA replication occurs"
+      },
+      {
+        "term": "telophase",
+        "definition": "stage of mitosis during which chromosomes arrive at opposite poles, decondense, and are surrounded by a new nuclear envelope"
+      },
+      {
+        "term": "tumor suppressor gene",
+        "definition": "segment of DNA that codes for regulator proteins that prevent the cell from undergoing uncontrolled division"
+      },
+      {
+        "term": "chiasmata",
+        "definition": "(singular, chiasma) the structure that forms at the crossover points after genetic material is exchanged"
+      },
+      {
+        "term": "crossover",
+        "definition": "exchange of genetic material between non-sister chromatids resulting in chromosomes that incorporate genes from both parents of the organism"
+      },
+      {
+        "term": "fertilization",
+        "definition": "union of two haploid cells from two individual organisms"
+      },
+      {
+        "term": "gametophyte",
+        "definition": "a multicellular haploid life-cycle stage that produces gametes"
+      },
+      {
+        "term": "germ cells",
+        "definition": "specialized cell line that produces gametes, such as eggs or sperm"
+      },
+      {
+        "term": "interkinesis",
+        "definition": "(also, interphase II) brief period of rest between meiosis I and meiosis II"
+      },
+      {
+        "term": "life cycle",
+        "definition": "the sequence of events in the development of an organism and the production of cells that produce offspring"
+      },
+      {
+        "term": "meiosis",
+        "definition": "a nuclear division process that results in four haploid cells"
+      },
+      {
+        "term": "meiosis I",
+        "definition": "first round of meiotic cell division; referred to as reduction division because the ploidy level is reduced from diploid to haploid"
+      },
+      {
+        "term": "meiosis II",
+        "definition": "second round of meiotic cell division following meiosis I; sister chromatids are separated into individual chromosomes, and the result is four unique haploid cells"
+      },
+      {
+        "term": "reduction division",
+        "definition": "nuclear division that produces daughter nuclei each having one-half as many chromosome sets as the parental nucleus; meiosis I is a reduction division"
+      },
+      {
+        "term": "somatic cell",
+        "definition": "all the cells of a multicellular organism except the gametes or reproductive cells"
+      },
+      {
+        "term": "spore",
+        "definition": "haploid cell that can produce a haploid multicellular organism or can fuse with another spore to form a diploid cell"
+      },
+      {
+        "term": "synapsis",
+        "definition": "formation of a close association between homologous chromosomes during prophase I"
+      },
+      {
+        "term": "synaptonemal complex",
+        "definition": "protein lattice that forms between homologous chromosomes during prophase I, supporting crossover"
+      },
+      {
+        "term": "tetrad",
+        "definition": "two duplicated homologous chromosomes (four chromatids) bound together by chiasmata during prophase I"
+      }
+    ]
+  },
+  {
+    "id": "genetics",
+    "title": "Genetics",
+    "sourceTitle": "GENETICS",
+    "cards": [
+      {
+        "term": "allele",
+        "definition": "gene variations that arise by mutation and exist at the same relative locations on homologous chromosomes"
+      },
+      {
+        "term": "autosomes",
+        "definition": "any of the non-sex chromosomes"
+      },
+      {
+        "term": "blending theory of inheritance",
+        "definition": "hypothetical inheritance pattern in which parental traits are blended together in the offspring to produce an intermediate physical appearance"
+      },
+      {
+        "term": "codominance",
+        "definition": "in a heterozygote, complete and simultaneous expression of both alleles for the same characteristic"
+      },
+      {
+        "term": "continuous variation",
+        "definition": "inheritance pattern in which a character shows a range of trait values with small gradations rather than large gaps between them"
+      },
+      {
+        "term": "dihybrid",
+        "definition": "result of a cross between two true-breeding parents that express different traits for two characteristics"
+      },
+      {
+        "term": "discontinuous variation",
+        "definition": "inheritance pattern in which traits are distinct and are transmitted independently of one another"
+      },
+      {
+        "term": "dominant",
+        "definition": "trait which confers the same physical appearance whether an individual has two copies of the trait or one copy of the dominant trait and one copy of the recessive trait"
+      },
+      {
+        "term": "dominant lethal",
+        "definition": "inheritance pattern in which an allele is lethal both in the homozygote and the heterozygote; this allele can only be transmitted if the lethality phenotype occurs after reproductive age"
+      },
+      {
+        "term": "epistasis",
+        "definition": "antagonistic interaction between genes such that one gene masks or interferes with the expression of another"
+      },
+      {
+        "term": "F1",
+        "definition": "first filial generation in a cross; the offspring of the parental generation"
+      },
+      {
+        "term": "F2",
+        "definition": "second filial generation produced when F1 individuals are self-crossed or fertilized with each other"
+      },
+      {
+        "term": "genotype",
+        "definition": "underlying genetic makeup, consisting of both physically visible and non-expressed alleles, of an organism"
+      },
+      {
+        "term": "hemizygous",
+        "definition": "presence of only one allele for a characteristic, as in X-linkage; hemizygosity makes descriptions of dominance and recessiveness irrelevant"
+      },
+      {
+        "term": "heterozygous",
+        "definition": "having two different alleles for a given gene on the homologous chromosome"
+      },
+      {
+        "term": "homozygous",
+        "definition": "having two identical alleles for a given gene on the homologous chromosome"
+      },
+      {
+        "term": "hybridization",
+        "definition": "process of mating two individuals that differ with the goal of achieving a certain characteristic in their offspring"
+      },
+      {
+        "term": "incomplete dominance",
+        "definition": "in a heterozygote, expression of two contrasting alleles such that the individual displays an intermediate phenotype"
+      },
+      {
+        "term": "law of dominance",
+        "definition": "in a heterozygote, one trait will conceal the presence of another trait for the same characteristic"
+      },
+      {
+        "term": "law of independent assortment",
+        "definition": "genes do not influence each other with regard to sorting of alleles into gametes; every possible combination of alleles is equally likely to occur"
+      },
+      {
+        "term": "law of segregation",
+        "definition": "paired unit factors (i.e., genes) segregate equally into gametes such that offspring have an equal likelihood of inheriting any combination of factors"
+      },
+      {
+        "term": "linkage",
+        "definition": "phenomenon in which alleles that are located in close proximity to each other on the same chromosome are more likely to be inherited together"
+      },
+      {
+        "term": "monohybrid",
+        "definition": "result of a cross between two true-breeding parents that express different traits for only one characteristic"
+      },
+      {
+        "term": "P0",
+        "definition": "parental generation in a cross"
+      },
+      {
+        "term": "phenotype",
+        "definition": "observable traits expressed by an organism"
+      },
+      {
+        "term": "product rule",
+        "definition": "probability of two independent events occurring simultaneously can be calculated by multiplying the individual probabilities of each event occurring alone"
+      },
+      {
+        "term": "Punnett square",
+        "definition": "visual representation of a cross between two individuals in which the gametes of each individual are denoted along the top and side of a grid, respectively, and the possible zygotic genotypes are recombined at each box in the grid"
+      },
+      {
+        "term": "recessive",
+        "definition": "trait that appears “latent” or non-expressed when the individual also carries a dominant trait for that same characteristic; when present as two identical copies, the recessive trait is expressed"
+      },
+      {
+        "term": "recessive lethal",
+        "definition": "inheritance pattern in which an allele is only lethal in the homozygous form; the heterozygote may be normal or have some altered, non-lethal phenotype"
+      },
+      {
+        "term": "reciprocal cross",
+        "definition": "paired cross in which the respective traits of the male and female in one cross become the respective traits of the female and male in the other cross"
+      },
+      {
+        "term": "sex-linked",
+        "definition": "any gene on a sex chromosome"
+      },
+      {
+        "term": "sum rule",
+        "definition": "probability of the occurrence of at least one of two mutually exclusive events is the sum of their individual probabilities"
+      },
+      {
+        "term": "test cross",
+        "definition": "cross between a dominant expressing individual with an unknown genotype and a homozygous recessive individual; the offspring phenotypes indicate whether the unknown parent is heterozygous or homozygous for the dominant trait"
+      },
+      {
+        "term": "trait",
+        "definition": "variation in the physical appearance of a heritable characteristic"
+      },
+      {
+        "term": "X-linked",
+        "definition": "gene present on the X, but not the Y chromosome"
+      },
+      {
+        "term": "aneuploid",
+        "definition": "individual with an error in chromosome number; includes deletions and duplications of chromosome segments"
+      },
+      {
+        "term": "autosome",
+        "definition": "any of the non-sex chromosomes"
+      },
+      {
+        "term": "centimorgan (cM)",
+        "definition": "(also, map unit) relative distance that corresponds to a recombination frequency of 0.01"
+      },
+      {
+        "term": "Chromosomal Theory of Inheritance",
+        "definition": "theory proposing that chromosomes are the vehicles of genes and that their behavior during meiosis is the physical basis of the inheritance patterns that Mendel observed"
+      },
+      {
+        "term": "chromosome inversion",
+        "definition": "detachment, 180° rotation, and reinsertion of a chromosome arm"
+      },
+      {
+        "term": "euploid",
+        "definition": "individual with the appropriate number of chromosomes for their species"
+      },
+      {
+        "term": "homologous recombination",
+        "definition": "process by which homologous chromosomes undergo reciprocal physical exchanges at their arms, also known as crossing over"
+      },
+      {
+        "term": "karyogram",
+        "definition": "photographic image of a karyotype"
+      },
+      {
+        "term": "karyotype",
+        "definition": "number and appearance of an individuals chromosomes; includes the size, banding patterns, and centromere position"
+      },
+      {
+        "term": "monosomy",
+        "definition": "otherwise diploid genotype in which one chromosome is missing"
+      },
+      {
+        "term": "nondisjunction",
+        "definition": "failure of synapsed homologs to completely separate and migrate to separate poles during the first cell division of meiosis"
+      },
+      {
+        "term": "nonparental (recombinant) type",
+        "definition": "progeny resulting from homologous recombination that exhibits a different allele combination compared with its parents"
+      },
+      {
+        "term": "parental types",
+        "definition": "progeny that exhibits the same allelic combination as its parents"
+      },
+      {
+        "term": "polyploid",
+        "definition": "individual with an incorrect number of chromosome sets"
+      },
+      {
+        "term": "recombination frequency",
+        "definition": "average number of crossovers between two alleles; observed as the number of nonparental types in a population of progeny"
+      },
+      {
+        "term": "translocation",
+        "definition": "process by which one segment of a chromosome dissociates and reattaches to a different, nonhomologous chromosome"
+      },
+      {
+        "term": "trisomy",
+        "definition": "otherwise diploid genotype in which one entire chromosome is duplicated"
+      },
+      {
+        "term": "X inactivation",
+        "definition": "condensation of X chromosomes into Barr bodies during embryonic development in females to compensate for the double genetic dose"
+      }
+    ]
+  },
+  {
+    "id": "gene-expression",
+    "title": "Gene Expression",
+    "sourceTitle": "GENE EXPRESSION",
+    "cards": [
+      {
+        "term": "electrophoresis",
+        "definition": "technique used to separate DNA fragments according to size"
+      },
+      {
+        "term": "exonuclease",
+        "definition": "enzymes that cleave nucleotides one at a time from the end of a polynucleotide chain"
+      },
+      {
+        "term": "helicase",
+        "definition": "during replication, this enzyme helps to open up the DNA helix by breaking the hydrogen bonds"
+      },
+      {
+        "term": "induced mutation",
+        "definition": "mutation that results from exposure to chemicals or environmental agents"
+      },
+      {
+        "term": "lagging strand",
+        "definition": "during replication, the strand that is replicated in short fragments and away from the replication fork"
+      },
+      {
+        "term": "leading strand",
+        "definition": "strand that is synthesized continuously in the 5'-3' direction which is synthesized in the direction of the replication fork"
+      },
+      {
+        "term": "ligase",
+        "definition": "enzyme that catalyzes the formation of a phosphodiester linkage between the 3' OH and 5' phosphate ends of the DNA"
+      },
+      {
+        "term": "mismatch repair",
+        "definition": "type of repair mechanism in which mismatched bases are removed after replication"
+      },
+      {
+        "term": "mutation",
+        "definition": "variation in the nucleotide sequence of a genome"
+      },
+      {
+        "term": "nucleotide excision repair",
+        "definition": "type of DNA repair mechanism in which the wrong base, along with a few nucleotides upstream or downstream, are removed"
+      },
+      {
+        "term": "Okazaki fragment",
+        "definition": "DNA fragment that is synthesized in short stretches on the lagging strand"
+      },
+      {
+        "term": "point mutation",
+        "definition": "mutation that affects a single base"
+      },
+      {
+        "term": "primase",
+        "definition": "enzyme that synthesizes the RNA primer; the primer is needed for DNA pol to start synthesis of a new DNA strand"
+      },
+      {
+        "term": "primer",
+        "definition": "short stretch of nucleotides that is required to initiate replication; in the case of replication, the primer has RNA nucleotides"
+      },
+      {
+        "term": "proofreading",
+        "definition": "function of DNA pol in which it reads the newly added base before adding the next one"
+      },
+      {
+        "term": "replication fork",
+        "definition": "Y-shaped structure formed during initiation of replication"
+      },
+      {
+        "term": "silent mutation",
+        "definition": "mutation that is not expressed"
+      },
+      {
+        "term": "single-strand binding protein",
+        "definition": "during replication, protein that binds to the single-stranded DNA; this helps in keeping the two strands of DNA apart so that they may serve as templates"
+      },
+      {
+        "term": "spontaneous mutation",
+        "definition": "mutation that takes place in the cells as a result of chemical reactions taking place naturally without exposure to any external agent"
+      },
+      {
+        "term": "telomerase",
+        "definition": "enzyme that contains a catalytic part and an inbuilt RNA template; it functions to maintain telomeres at chromosome ends"
+      },
+      {
+        "term": "telomere",
+        "definition": "DNA at the end of linear chromosomes"
+      },
+      {
+        "term": "topoisomerase",
+        "definition": "enzyme that prevents overwinding of DNA when DNA replication is taking place"
+      },
+      {
+        "term": "transformation",
+        "definition": "process in which external DNA is taken up by a cell"
+      },
+      {
+        "term": "transition substitution",
+        "definition": "when a purine is replaced with a purine or a pyrimidine is replaced with another pyrimidine"
+      },
+      {
+        "term": "transversion substitution",
+        "definition": "when a purine is replaced by a pyrimidine or a pyrimidine is replaced by a purine"
+      },
+      {
+        "term": "7-methylguanosine cap",
+        "definition": "modification added to the 5' end of pre-mRNAs to protect mRNA from degradation and assist translation"
+      },
+      {
+        "term": "anticodon",
+        "definition": "three-nucleotide sequence in a tRNA molecule that corresponds to an mRNA codon"
+      },
+      {
+        "term": "Central Dogma",
+        "definition": "states that genes specify the sequence of mRNAs, which in turn specify the sequence of proteins"
+      },
+      {
+        "term": "codon",
+        "definition": "three consecutive nucleotides in mRNA that specify the insertion of an amino acid or the release of a polypeptide chain during translation"
+      },
+      {
+        "term": "exon",
+        "definition": "sequence present in protein-coding mRNA after completion of pre-mRNA splicing"
+      },
+      {
+        "term": "initiation site",
+        "definition": "nucleotide from which mRNA synthesis proceeds in the 5' to 3' direction; denoted with a “+1”"
+      },
+      {
+        "term": "intron",
+        "definition": "non–protein-coding intervening sequences that are spliced from mRNA during processing"
+      },
+      {
+        "term": "nonsense codon",
+        "definition": "one of the three mRNA codons that specifies termination of translation"
+      },
+      {
+        "term": "plasmid",
+        "definition": "extrachromosomal, covalently closed, circular DNA molecule that may only contain one or a few genes; common in prokaryotes"
+      },
+      {
+        "term": "poly-A tail",
+        "definition": "modification added to the 3' end of pre-mRNAs to protect mRNA from degradation and assist mRNA export from the nucleus"
+      },
+      {
+        "term": "RNA editing",
+        "definition": "direct alteration of one or more nucleotides in an mRNA that has already been synthesized"
+      },
+      {
+        "term": "splicing",
+        "definition": "process of removing introns and reconnecting exons in a pre-mRNA"
+      },
+      {
+        "term": "start codon",
+        "definition": "AUG (or rarely, GUG) on an mRNA from which translation begins; always specifies methionine"
+      },
+      {
+        "term": "TATA box",
+        "definition": "conserved promoter sequence in eukaryotes and prokaryotes that helps to establish the initiation site for transcription"
+      },
+      {
+        "term": "template strand",
+        "definition": "strand of DNA that specifies the complementary mRNA molecule"
+      },
+      {
+        "term": "transcription bubble",
+        "definition": "region of locally unwound DNA that allows for transcription of mRNA of the protein-coding region in an RNA molecule that is not translated"
+      },
+      {
+        "term": "5' cap",
+        "definition": "a methylated guanosine triphosphate (GTP) molecule that is attached to the 5' end of a messenger RNA to protect the end from degradation"
+      },
+      {
+        "term": "activator",
+        "definition": "protein that binds to prokaryotic operators to increase transcription"
+      },
+      {
+        "term": "catabolite activator protein (CAP)",
+        "definition": "protein that complexes with cAMP to bind to the promoter sequences of operons that control sugar processing when glucose is not available"
+      },
+      {
+        "term": "DNA methylation",
+        "definition": "epigenetic modification that leads to gene silencing; commonly found in cancer cells"
+      },
+      {
+        "term": "enhancer",
+        "definition": "segment of DNA that is upstream, downstream, perhaps thousands of nucleotides away, or on another chromosome that influence the transcription of a specific gene"
+      },
+      {
+        "term": "epigenetic",
+        "definition": "heritable changes that do not involve changes in the DNA sequence"
+      },
+      {
+        "term": "gene expression",
+        "definition": "processes that control the turning on or turning off of a gene"
+      },
+      {
+        "term": "histone acetylation",
+        "definition": "epigenetic modification that leads to gene expression; commonly found in cancer cells."
+      },
+      {
+        "term": "inducer",
+        "definition": "a small molecule that either activates or represses transcription"
+      },
+      {
+        "term": "inducible operon",
+        "definition": "operon that can be activated or repressed depending on cellular needs and the surrounding environment"
+      },
+      {
+        "term": "initiation complex",
+        "definition": "protein complex containing eIF2-2 that starts translation"
+      },
+      {
+        "term": "lac operon",
+        "definition": "operon in prokaryotic cells that encodes genes required for processing and intake of lactose"
+      },
+      {
+        "term": "large 60S ribosomal subunit",
+        "definition": "second, larger ribosomal subunit that binds to the RNA to translate it into protein"
+      },
+      {
+        "term": "microRNA (miRNA)",
+        "definition": "small RNA molecules (approximately 21 nucleotides in length) that bind to RNA molecules to degrade them"
+      },
+      {
+        "term": "negative regulator",
+        "definition": "protein that prevents transcription"
+      },
+      {
+        "term": "operator",
+        "definition": "region of DNA outside of the promoter region that binds activators or repressors that control gene expression in prokaryotic cells"
+      },
+      {
+        "term": "operon",
+        "definition": "collection of genes involved in a pathway that are transcribed together as a single mRNA in prokaryotic cells"
+      },
+      {
+        "term": "poly-A tail",
+        "definition": "a series of adenine nucleotides that are attached to the 3' end of an mRNA to protect the end from degradation"
+      },
+      {
+        "term": "positive regulator",
+        "definition": "protein that increases transcription"
+      },
+      {
+        "term": "post-transcriptional",
+        "definition": "control of gene expression after the RNA molecule has been created but before it is translated into protein"
+      },
+      {
+        "term": "post-translational",
+        "definition": "control of gene expression after a protein has been created"
+      },
+      {
+        "term": "proteasome",
+        "definition": "organelle that degrades proteins"
+      },
+      {
+        "term": "repressor",
+        "definition": "protein that binds to the operator of prokaryotic genes to prevent transcription"
+      },
+      {
+        "term": "transcription factor",
+        "definition": "protein that binds to the DNA at the promoter or enhancer region and that influences transcription of a gene"
+      },
+      {
+        "term": "transcription factor binding site",
+        "definition": "sequence of DNA to which a transcription factor binds"
+      },
+      {
+        "term": "transcriptional start site",
+        "definition": "site at which transcription begins"
+      },
+      {
+        "term": "trp operon",
+        "definition": "series of genes necessary to synthesize tryptophan in prokaryotic cells"
+      },
+      {
+        "term": "tryptophan",
+        "definition": "amino acid that can be synthesized by prokaryotic cells when necessary"
+      },
+      {
+        "term": "untranslated region",
+        "definition": "segment of the RNA molecule that are not translated into protein. These regions lie before (upstream or 5') and after (downstream or 3') the protein-coding region"
+      }
+    ]
+  },
+  {
+    "id": "evolution",
+    "title": "Evolution",
+    "sourceTitle": "EVOLUTION",
+    "cards": [
+      {
+        "term": "acquired characteristics",
+        "definition": "modifications caused by an individual’s environment that can be inherited by its offspring"
+      },
+      {
+        "term": "adaptation",
+        "definition": "heritable trait or behavior in an organism that aids in its survival and reproduction in its present environment"
+      },
+      {
+        "term": "adaptive radiation",
+        "definition": "speciation when one species radiates out to form several other species"
+      },
+      {
+        "term": "allopatric speciation",
+        "definition": "speciation that occurs via geographic separation"
+      },
+      {
+        "term": "aneuploidy",
+        "definition": "condition of a cell having an extra chromosome or missing a chromosome for its species"
+      },
+      {
+        "term": "behavioral isolation",
+        "definition": "type of reproductive isolation that occurs when a specific behavior or lack of one prevents reproduction from taking place"
+      },
+      {
+        "term": "convergent evolution",
+        "definition": "process by which groups of organisms independently evolve to similar forms"
+      },
+      {
+        "term": "dispersal",
+        "definition": "allopatric speciation that occurs when a few members of a species move to a new geographical area"
+      },
+      {
+        "term": "divergent evolution",
+        "definition": "process by which groups of organisms evolve in diverse directions from a common point"
+      },
+      {
+        "term": "gametic barrier",
+        "definition": "prezygotic barrier occurring when closely related individuals of different species mate, but differences in their gamete cells (eggs and sperm) prevent fertilization from taking place"
+      },
+      {
+        "term": "gradual speciation model",
+        "definition": "model that shows how species diverge gradually over time in small steps"
+      },
+      {
+        "term": "habitat isolation",
+        "definition": "reproductive isolation resulting when populations of a species move or are moved to a new habitat, taking up residence in a place that no longer overlaps with the other populations of the same species"
+      },
+      {
+        "term": "homologous structures",
+        "definition": "parallel structures in diverse organisms that have a common ancestor"
+      },
+      {
+        "term": "hybrid",
+        "definition": "offspring of two closely related individuals, not of the same species"
+      },
+      {
+        "term": "hybrid zone",
+        "definition": "area where two closely related species continue to interact and reproduce, forming hybrids"
+      },
+      {
+        "term": "natural selection",
+        "definition": "reproduction of individuals with favorable genetic traits that survive environmental change because of those traits, leading to evolutionary change"
+      },
+      {
+        "term": "polyploidy",
+        "definition": "gametes with extra chromosomes"
+      },
+      {
+        "term": "postzygotic barrier",
+        "definition": "reproductive isolation mechanism that occurs after zygote formation"
+      },
+      {
+        "term": "prezygotic barrier",
+        "definition": "reproductive isolation mechanism that occurs before zygote formation"
+      },
+      {
+        "term": "punctuated equilibrium",
+        "definition": "model for rapid speciation that can occur when an event causes a small portion of a population to be cut off from the rest of the population"
+      },
+      {
+        "term": "reinforcement",
+        "definition": "continued speciation divergence between two related species due to low fitness of hybrids between them"
+      },
+      {
+        "term": "reproductive isolation",
+        "definition": "situation that occurs when a species is reproductively independent from other species; this may be brought about by behavior, location, or reproductive barriers"
+      },
+      {
+        "term": "speciation",
+        "definition": "formation of a new species"
+      },
+      {
+        "term": "species",
+        "definition": "group of populations that interbreed and produce fertile offspring"
+      },
+      {
+        "term": "sympatric speciation",
+        "definition": "speciation that occurs in the same geographic space"
+      },
+      {
+        "term": "temporal isolation",
+        "definition": "differences in breeding schedules that can act as a form of prezygotic barrier leading to reproductive isolation"
+      },
+      {
+        "term": "theory of evolution",
+        "definition": "explains how populations change over time and how life diversifies the origin of species"
+      },
+      {
+        "term": "variation",
+        "definition": "genetic differences among individuals in a population"
+      },
+      {
+        "term": "vestigial structure",
+        "definition": "physical structure present in an organism but that has no apparent function and appears to be from a functional structure in a distant ancestor"
+      },
+      {
+        "term": "adaptive evolution",
+        "definition": "increase in frequency of beneficial alleles and decrease in deleterious alleles due to selection"
+      },
+      {
+        "term": "allele frequency",
+        "definition": "(also, gene frequency) rate at which a specific allele appears within a population"
+      },
+      {
+        "term": "assortative mating",
+        "definition": "when individuals tend to mate with those who are phenotypically similar to themselves"
+      },
+      {
+        "term": "bottleneck effect",
+        "definition": "magnification of genetic drift as a result of natural events or catastrophes"
+      },
+      {
+        "term": "directional selection",
+        "definition": "selection that favors phenotypes at one end of the spectrum of existing variation"
+      },
+      {
+        "term": "diversifying selection",
+        "definition": "selection that favors two or more distinct phenotypes"
+      },
+      {
+        "term": "evolutionary fitness",
+        "definition": "(also, Darwinian fitness) individual’s ability to survive and reproduce"
+      },
+      {
+        "term": "fitness",
+        "definition": "measure of successful reproduction, the passing on alleles to the next generation"
+      },
+      {
+        "term": "founder effect",
+        "definition": "event that initiates an allele frequency change in part of the population, which is not typical of the original population"
+      },
+      {
+        "term": "frequency-dependent selection",
+        "definition": "selection that favors phenotypes that are either common (positive frequency- dependent selection) or rare (negative frequency-dependent selection)"
+      },
+      {
+        "term": "gene flow",
+        "definition": "flow of alleles in and out of a population due to the migration of individuals or gametes"
+      },
+      {
+        "term": "gene pool",
+        "definition": "all of the alleles carried by all of the individuals in the population"
+      },
+      {
+        "term": "genetic drift",
+        "definition": "effect of chance on a population’s gene pool"
+      },
+      {
+        "term": "genetic structure",
+        "definition": "distribution of the different possible genotypes in a population"
+      },
+      {
+        "term": "genetic variability",
+        "definition": "diversity of alleles and genotypes in a population"
+      },
+      {
+        "term": "genotype frequency",
+        "definition": "the proportion of a specific genotype in a population relative to all other genotypes for those genes that are present in the population"
+      },
+      {
+        "term": "geographical variation",
+        "definition": "differences in the phenotypic variation between populations that are separated geographically"
+      },
+      {
+        "term": "Hardy–Weinberg principle of equilibrium",
+        "definition": "a stable, non-evolving state of a population in which allelic frequencies are stable over time"
+      },
+      {
+        "term": "macroevolution",
+        "definition": "broader scale evolutionary changes seen over paleontological time"
+      },
+      {
+        "term": "microevolution",
+        "definition": "changes in a population’s genetic structure"
+      },
+      {
+        "term": "nonrandom mating",
+        "definition": "changes in a population’s gene pool due to mate choice or other forces that cause individuals to mate with certain phenotypes more than others"
+      },
+      {
+        "term": "population genetics",
+        "definition": "study of how selective forces change the allele frequencies in a population over time"
+      },
+      {
+        "term": "population variation",
+        "definition": "distribution of phenotypes in a population"
+      },
+      {
+        "term": "relative fitness",
+        "definition": "individual’s ability to survive and reproduce relative to the rest of the population"
+      },
+      {
+        "term": "selective pressure",
+        "definition": "environmental factor that causes one phenotype to be better than another"
+      },
+      {
+        "term": "sexual dimorphism",
+        "definition": "phenotypic difference between the males and females of a population"
+      },
+      {
+        "term": "stabilizing selection",
+        "definition": "selection that favors average phenotypes"
+      }
+    ]
+  },
+  {
+    "id": "ecology",
+    "title": "Ecology",
+    "sourceTitle": "ECOLOGY",
+    "cards": [
+      {
+        "term": "abiotic",
+        "definition": "nonliving components of the environment"
+      },
+      {
+        "term": "biogeography",
+        "definition": "study of the geographic distribution of living things and the abiotic factors that affect their distribution"
+      },
+      {
+        "term": "biome",
+        "definition": "ecological community of plants, animals, and other organisms that is adapted to a characteristic set of environmental conditions"
+      },
+      {
+        "term": "biotic",
+        "definition": "living components of the environment"
+      },
+      {
+        "term": "Batesian mimicry",
+        "definition": "type of mimicry where a non-harmful species takes on the warning colorations of a harmful one"
+      },
+      {
+        "term": "behavior",
+        "definition": "change in an organism’s activities in response to a stimulus"
+      },
+      {
+        "term": "biogeochemical cycle",
+        "definition": "cycling of mineral nutrients through ecosystems and through the non-living world"
+      },
+      {
+        "term": "biomagnification",
+        "definition": "increasing concentrations of persistent, toxic substances in organisms at each trophic level, from the primary producers to the apex consumers"
+      },
+      {
+        "term": "biomass",
+        "definition": "total weight, at the time of measurement, of living or previously living organisms in a unit area within a trophic level"
+      },
+      {
+        "term": "camouflage",
+        "definition": "avoid detection by blending in with the background."
+      },
+      {
+        "term": "chemoautotroph",
+        "definition": "organism capable of synthesizing its own food using energy from inorganic molecules"
+      },
+      {
+        "term": "carrying capacity (K)",
+        "definition": "number of individuals of a species that can be supported by the limited resources of a habitat"
+      },
+      {
+        "term": "classical conditioning",
+        "definition": "association of a specific stimulus and response through conditioning"
+      },
+      {
+        "term": "climax community",
+        "definition": "final stage of succession, where a stable community is formed by a characteristic assortment of plant and animal species"
+      },
+      {
+        "term": "cognitive learning",
+        "definition": "knowledge and skills acquired by the manipulation of information in the mind"
+      },
+      {
+        "term": "commensalism",
+        "definition": "relationship between species wherein one species benefits from the close, prolonged interaction, while the other species neither benefits nor is harmed"
+      },
+      {
+        "term": "competitive exclusion principle",
+        "definition": "no two species within a habitat can coexist when they compete for the same resources at the same place and time"
+      },
+      {
+        "term": "conditioned behavior",
+        "definition": "behavior that becomes associated with a specific stimulus through conditioning"
+      },
+      {
+        "term": "courtship display",
+        "definition": "visual display used to attract a mate"
+      },
+      {
+        "term": "death rate (D)",
+        "definition": "number of deaths within a population at a specific point in time"
+      },
+      {
+        "term": "demographic-based population model",
+        "definition": "modern model of population dynamics incorporating many features of the r- and K- selection theory"
+      },
+      {
+        "term": "demography",
+        "definition": "statistical study of changes in populations over time"
+      },
+      {
+        "term": "density-dependent regulation",
+        "definition": "regulation of population that is influenced by population density, such as crowding effects; usually involves biotic factors"
+      },
+      {
+        "term": "density-independent regulation",
+        "definition": "regulation of populations by factors that operate independent of population density, such as forest fires and volcanic eruptions; usually involves abiotic factors"
+      },
+      {
+        "term": "distraction display",
+        "definition": "visual display used to distract predators away from a nesting site"
+      },
+      {
+        "term": "keystone species",
+        "definition": "species whose presence is key to maintaining biodiversity in an ecosystem and to upholding an ecological community’s structure"
+      },
+      {
+        "term": "migration",
+        "definition": "long-range seasonal movement of animal species"
+      },
+      {
+        "term": "mutualism",
+        "definition": "symbiotic relationship between two species where both species benefit"
+      },
+      {
+        "term": "parasite",
+        "definition": "organism that uses resources from another species, the host"
+      },
+      {
+        "term": "pioneer species",
+        "definition": "first species to appear in primary and secondary succession"
+      },
+      {
+        "term": "primary succession",
+        "definition": "succession on land that previously has had no life"
+      },
+      {
+        "term": "secondary succession",
+        "definition": "succession in response to environmental disturbances that move a community away from its equilibrium"
+      },
+      {
+        "term": "ecological pyramid",
+        "definition": "(also, Eltonian pyramid) graphical representation of different trophic levels in an ecosystem based of organism numbers, biomass, or energy content"
+      },
+      {
+        "term": "ecosystem",
+        "definition": "community of living organisms and their interactions with their abiotic environment"
+      },
+      {
+        "term": "ecosystem dynamics",
+        "definition": "study of the changes in ecosystem structure caused by changes in the environment or internal forces"
+      },
+      {
+        "term": "equilibrium",
+        "definition": "steady state of an ecosystem where all organisms are in balance with their environment and each other"
+      },
+      {
+        "term": "eutrophication",
+        "definition": "process whereby nutrient runoff causes the excess growth of microorganisms, depleting dissolved oxygen levels and killing ecosystem fauna"
+      },
+      {
+        "term": "food chain",
+        "definition": "linear representation of a chain of primary producers, primary consumers, and higher-level consumers used to describe ecosystem structure and dynamics"
+      },
+      {
+        "term": "food web",
+        "definition": "graphic representation of a holistic, non-linear web of primary producers, primary consumers, and higher-level consumers used to describe ecosystem structure and dynamics"
+      },
+      {
+        "term": "primary consumer",
+        "definition": "trophic level that obtains its energy from the primary producers of an ecosystem"
+      },
+      {
+        "term": "primary producer",
+        "definition": "trophic level that obtains its energy from sunlight, inorganic chemicals, or dead and/or decaying organic material"
+      },
+      {
+        "term": "secondary consumer",
+        "definition": "usually a carnivore that eat primary consumers"
+      },
+      {
+        "term": "tertiary consumer",
+        "definition": "carnivore that eat other carnivores"
+      },
+      {
+        "term": "trophic level",
+        "definition": "position of a species or group of species in a food chain or a food web"
+      },
+      {
+        "term": "climate",
+        "definition": "long-term, predictable atmospheric conditions present in a specific area"
+      },
+      {
+        "term": "ecology",
+        "definition": "study of interaction between living things and their environment"
+      },
+      {
+        "term": "greenhouse effect",
+        "definition": "warming of Earth due to carbon dioxide and other greenhouse gases in the atmosphere"
+      },
+      {
+        "term": "greenhouse gases",
+        "definition": "atmospheric gases such as carbon dioxide and methane that absorb and emit radiation, thus trapping heat in Earth’s atmosphere"
+      },
+      {
+        "term": "energy budget",
+        "definition": "allocation of energy resources for body maintenance, reproduction, and parental care"
+      },
+      {
+        "term": "environmental disturbance",
+        "definition": "change in the environment caused by natural disasters or human activities"
+      },
+      {
+        "term": "ethology",
+        "definition": "biological study of animal behavior"
+      },
+      {
+        "term": "exponential growth",
+        "definition": "accelerating growth pattern seen in species under conditions where resources are not limiting"
+      },
+      {
+        "term": "fixed action pattern",
+        "definition": "series of instinctual behaviors that, once initiated, always goes to completion regardless of changes in the environment"
+      },
+      {
+        "term": "foundation species",
+        "definition": "species which often forms the major structural portion of the habitat"
+      },
+      {
+        "term": "habituation",
+        "definition": "ability of a species to ignore repeated stimuli that have no consequence"
+      },
+      {
+        "term": "host",
+        "definition": "organism a parasite lives on"
+      },
+      {
+        "term": "imprinting",
+        "definition": "identification of parents by newborns as the first organism they see after birth"
+      },
+      {
+        "term": "innate behavior",
+        "definition": "instinctual behavior that is not altered by changes in the environment"
+      },
+      {
+        "term": "intersexual selection",
+        "definition": "selection of a desirable mate of the opposite sex"
+      },
+      {
+        "term": "interspecific competition",
+        "definition": "competition between species for resources in a shared habitat or environment"
+      },
+      {
+        "term": "intrasexual selection",
+        "definition": "competition between members of the same sex for a mate"
+      },
+      {
+        "term": "intraspecific competition",
+        "definition": "competition between members of the same species"
+      }
+    ]
+  }
+]
