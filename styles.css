@@ -302,6 +302,37 @@ input[type="number"] {
   color: #f0c2b4;
 }
 
+.reset-link:disabled {
+  color: #6a5642;
+  cursor: default;
+  opacity: 0.45;
+}
+
+.reset-link:disabled:hover {
+  color: #6a5642;
+}
+
+.desk-foot {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1.6rem;
+  min-height: 2.6rem;
+}
+
+.confirm-all {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: flex-end;
+  gap: 0.7rem 1rem;
+}
+
+.confirm-all p {
+  margin: 0;
+  color: #e6d3b4;
+  font-size: 1rem;
+}
+
 .desk-link:hover {
   color: #fff1d6;
 }

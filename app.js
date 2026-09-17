@@ -15,6 +15,7 @@ const state = {
   baseElapsed: 0,
   finishedMs: 0,
   tick: null,
+  persistTick: null,
   clickTimer: null,
 };
 
@@ -104,6 +105,10 @@ function stopTick() {
     clearInterval(state.tick);
     state.tick = null;
   }
+  if (state.persistTick) {
+    clearInterval(state.persistTick);
+    state.persistTick = null;
+  }
 }
 
 function startTick() {
@@ -114,10 +119,11 @@ function startTick() {
   };
   paint();
   state.tick = setInterval(paint, 200);
+  state.persistTick = setInterval(() => persistStudy(), 2000);
 }
 
 function persistStudy() {
-  if (!state.unitId) return;
+  if (!state.unitId || state.view !== "study") return;
   saveProgress(state.unitId, {
     index: state.index,
     elapsedMs: elapsedNow(),
@@ -206,15 +212,12 @@ function renderHome() {
             const color = durationColor(eta);
             const width = Math.max(8, (eta / maxEta) * 100);
             const saved = progress[u.id];
-            const meta = saved
-              ? `Resume at ${saved.index + 1} of ${u.cards.length}`
-              : `${u.cards.length} words`;
             return `
               <li class="unit-item">
                 <button class="unit-row" data-unit="${u.id}" type="button">
                   <div>
                     <h2 class="unit-title">${escapeHtml(u.title)}</h2>
-                    <p class="unit-meta">${escapeHtml(meta)}</p>
+                    <p class="unit-meta">${u.cards.length} words</p>
                   </div>
                   <span class="count">${u.cards.length}</span>
                   <span class="eta-wrap">
@@ -224,11 +227,12 @@ function renderHome() {
                     </span>
                   </span>
                 </button>
-                ${saved ? `<button class="reset-link" data-reset="${u.id}" type="button">Reset</button>` : ""}
+                <button class="reset-link" data-reset="${u.id}" type="button"${saved ? "" : " disabled"}>Reset</button>
               </li>`;
           })
           .join("")}
       </ul>
+      <div class="desk-foot" id="reset-all-mount"></div>
     </main>
   `;
 
@@ -250,9 +254,40 @@ function renderHome() {
     btn.addEventListener("click", (e) => {
       e.preventDefault();
       e.stopPropagation();
+      if (btn.disabled) return;
       resetUnitProgress(btn.getAttribute("data-reset"));
     });
   });
+  bindResetAll();
+}
+
+function bindResetAll() {
+  const mount = document.getElementById("reset-all-mount");
+  if (!mount) return;
+  const showIdle = () => {
+    mount.innerHTML = `<button class="reset-link" id="reset-all" type="button">Reset all progress</button>`;
+    document.getElementById("reset-all").addEventListener("click", showConfirm);
+  };
+  const showConfirm = () => {
+    mount.innerHTML = `
+      <div class="confirm-all" role="alertdialog" aria-labelledby="confirm-all-copy">
+        <p id="confirm-all-copy">Clear saved progress for every unit?</p>
+        <button class="done-btn" id="confirm-reset-all" type="button">Reset all</button>
+        <button class="reset-link" id="cancel-reset-all" type="button">Keep it</button>
+      </div>`;
+    document.getElementById("confirm-reset-all").addEventListener("click", clearAllProgress);
+    document.getElementById("cancel-reset-all").addEventListener("click", showIdle);
+  };
+  showIdle();
+}
+
+function clearAllProgress() {
+  localStorage.removeItem(PROGRESS_KEY);
+  state.index = 0;
+  state.flipped = false;
+  state.baseElapsed = 0;
+  state.startedAt = 0;
+  renderHome();
 }
 
 function beginUnit(id, { reset = false } = {}) {
@@ -345,6 +380,7 @@ function renderStudy() {
     go("#/");
   });
   startTick();
+  persistStudy();
 }
 
 function bindCard(el) {
@@ -478,6 +514,12 @@ function route() {
 window.addEventListener("hashchange", route);
 window.addEventListener("beforeunload", () => {
   if (state.view === "study") persistStudy();
+});
+window.addEventListener("pagehide", () => {
+  if (state.view === "study") persistStudy();
+});
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "hidden" && state.view === "study") persistStudy();
 });
 
 try {
