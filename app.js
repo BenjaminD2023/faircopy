@@ -198,7 +198,7 @@ function renderHome() {
               ? `Resume at ${saved.index + 1} of ${u.cards.length}`
               : `${u.cards.length} words`;
             return `
-              <li>
+              <li class="unit-item">
                 <button class="unit-row" data-unit="${u.id}" type="button">
                   <div>
                     <h2 class="unit-title">${escapeHtml(u.title)}</h2>
@@ -212,6 +212,7 @@ function renderHome() {
                     </span>
                   </span>
                 </button>
+                ${saved ? `<button class="reset-link" data-reset="${u.id}" type="button">Reset</button>` : ""}
               </li>`;
           })
           .join("")}
@@ -233,18 +234,47 @@ function renderHome() {
       beginUnit(id);
     });
   });
+  app.querySelectorAll("[data-reset]").forEach((btn) => {
+    btn.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      resetUnitProgress(btn.getAttribute("data-reset"));
+    });
+  });
 }
 
-function beginUnit(id) {
+function beginUnit(id, { reset = false } = {}) {
   const unit = unitById(id);
   if (!unit) return;
-  const saved = loadProgress()[id];
+  if (reset) saveProgress(id, null);
+  const saved = reset ? null : loadProgress()[id];
   state.unitId = id;
   state.index = saved ? Math.min(saved.index, unit.cards.length - 1) : 0;
   state.flipped = false;
   state.baseElapsed = saved ? saved.elapsedMs : 0;
   state.startedAt = Date.now();
   go(`#/u/${id}`);
+}
+
+function resetUnitProgress(id) {
+  saveProgress(id, null);
+  if (state.unitId === id) {
+    state.index = 0;
+    state.flipped = false;
+    state.baseElapsed = 0;
+    state.startedAt = 0;
+  }
+  renderHome();
+}
+
+function resetStudy() {
+  if (!state.unitId) return;
+  saveProgress(state.unitId, null);
+  state.index = 0;
+  state.flipped = false;
+  state.baseElapsed = 0;
+  state.startedAt = Date.now();
+  renderStudy();
 }
 
 function renderStudy() {
@@ -260,7 +290,10 @@ function renderStudy() {
   app.innerHTML = `
     <div class="study">
       <header class="study-top">
-        <a class="desk-link" href="#/" id="desk-link">Desk</a>
+        <div class="chrome-left">
+          <a class="desk-link" href="#/" id="desk-link">Desk</a>
+          <button class="reset-link" id="reset-study" type="button">Reset</button>
+        </div>
         <h1 class="study-title">${escapeHtml(unit.title)}</h1>
         <div class="hud">
           <span class="pct" id="live-pct">${pct}%</span>
@@ -290,6 +323,7 @@ function renderStudy() {
   const cardEl = document.getElementById("flashcard");
   bindCard(cardEl);
   document.getElementById("next-btn").addEventListener("click", () => nextCard());
+  document.getElementById("reset-study").addEventListener("click", () => resetStudy());
   document.getElementById("desk-link").addEventListener("click", (e) => {
     e.preventDefault();
     persistStudy();
@@ -383,9 +417,15 @@ function renderDone() {
           <p class="stat-value avg">${fmtAvg(avg)}</p>
         </div>
       </div>
-      <button class="done-btn" id="back-desk" type="button">Back to the desk</button>
+      <div class="done-actions">
+        <button class="done-btn" id="copy-again" type="button">Copy again</button>
+        <button class="reset-link" id="back-desk" type="button">Back to the desk</button>
+      </div>
     </main>
   `;
+  document.getElementById("copy-again").addEventListener("click", () => {
+    beginUnit(state.unitId, { reset: true });
+  });
   document.getElementById("back-desk").addEventListener("click", () => go("#/"));
 }
 
