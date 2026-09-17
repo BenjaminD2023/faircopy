@@ -31,7 +31,12 @@ function savePace(n) {
 
 function loadProgress() {
   try {
-    return JSON.parse(localStorage.getItem(PROGRESS_KEY) || "{}");
+    const all = JSON.parse(localStorage.getItem(PROGRESS_KEY) || "{}");
+    if (all["membrane-transport"]) {
+      delete all["membrane-transport"];
+      localStorage.setItem(PROGRESS_KEY, JSON.stringify(all));
+    }
+    return all;
   } catch {
     return {};
   }
@@ -44,8 +49,12 @@ function saveProgress(unitId, payload) {
   localStorage.setItem(PROGRESS_KEY, JSON.stringify(all));
 }
 
+function canonicalUnitId(id) {
+  return id === "membrane-transport" ? "cell-structure" : id;
+}
+
 function unitById(id) {
-  return state.units.find((u) => u.id === id) ?? null;
+  return state.units.find((u) => u.id === canonicalUnitId(id)) ?? null;
 }
 
 function fmtClock(ms) {
@@ -120,7 +129,10 @@ function parseHash() {
   const raw = location.hash.replace(/^#/, "") || "/";
   const parts = raw.split("/").filter(Boolean);
   if (parts[0] === "u" && parts[1]) {
-    return { view: parts[2] === "done" ? "done" : "study", unitId: parts[1] };
+    return {
+      view: parts[2] === "done" ? "done" : "study",
+      unitId: canonicalUnitId(parts[1]),
+    };
   }
   return { view: "home", unitId: null };
 }
@@ -244,6 +256,7 @@ function renderHome() {
 }
 
 function beginUnit(id, { reset = false } = {}) {
+  id = canonicalUnitId(id);
   const unit = unitById(id);
   if (!unit) return;
   if (reset) saveProgress(id, null);

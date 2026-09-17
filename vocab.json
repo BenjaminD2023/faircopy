@@ -480,7 +480,7 @@
   {
     "id": "cell-structure",
     "title": "Cell Structure",
-    "sourceTitle": "STRUCTURE AND FUNCTIONS OF CELL",
+    "sourceTitle": "STRUCTURE AND FUNCTIONS OF CELL (includes membrane transport)",
     "cards": [
       {
         "term": "cell wall",
@@ -657,14 +657,7 @@
       {
         "term": "vesicle",
         "definition": "small, membrane-bound sac that functions in cellular storage and transport; its membrane is capable of fusing with the plasma membrane and the membranes of the endoplasmic reticulum and Golgi apparatus"
-      }
-    ]
-  },
-  {
-    "id": "membrane-transport",
-    "title": "Membrane Transport",
-    "sourceTitle": "MEMBRANE TRANSPORT",
-    "cards": [
+      },
       {
         "term": "active transport",
         "definition": "method of transporting material that requires energy"
