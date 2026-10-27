@@ -351,7 +351,7 @@ function renderStudy() {
       <div class="stage-wrap">
         <p class="card-count">${state.index + 1} of ${unit.cards.length}</p>
         <div class="stage">
-          <div class="card${flipped}" id="flashcard" role="button" tabindex="0" aria-label="Flashcard. Click to flip. Double-click for the next card.">
+          <div class="card${flipped}" id="flashcard" role="button" tabindex="0" aria-label="Flashcard. Click or press up or down to flip. Double-click or press right for the next card. Press left for the previous card.">
             <div class="face face-front">
               <p class="side-label">Word</p>
               <p class="term">${escapeHtml(card.term)}</p>
@@ -362,7 +362,7 @@ function renderStudy() {
             </div>
           </div>
         </div>
-        <p class="hint">Click the card to flip. Next, or double-click, copies you forward.</p>
+        <p class="hint">Click or ↑ / ↓ to flip. ← previous. →, Next, or double-click to move forward.</p>
         <button class="next-btn" id="next-btn" type="button">${state.index >= unit.cards.length - 1 ? "Finish" : "Next"}</button>
       </div>
     </div>
@@ -430,6 +430,35 @@ function nextCard() {
   state.flipped = false;
   persistStudy();
   renderStudy();
+}
+
+function previousCard() {
+  if (state.index <= 0) return;
+  state.index -= 1;
+  state.flipped = false;
+  persistStudy();
+  renderStudy();
+}
+
+function handleStudyKeydown(e) {
+  if (state.view !== "study" || e.defaultPrevented || e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
+  if (e.target instanceof Element && e.target.closest("input, textarea, select, [contenteditable]:not([contenteditable='false'])")) return;
+
+  const actions = {
+    ArrowUp: flipCard,
+    ArrowDown: flipCard,
+    ArrowLeft: previousCard,
+    ArrowRight: nextCard,
+  };
+  const action = actions[e.key];
+  if (!action) return;
+  e.preventDefault();
+  if (e.repeat) return;
+  if (state.clickTimer) {
+    clearTimeout(state.clickTimer);
+    state.clickTimer = null;
+  }
+  action();
 }
 
 function finishUnit() {
@@ -512,6 +541,7 @@ function route() {
 }
 
 window.addEventListener("hashchange", route);
+document.addEventListener("keydown", handleStudyKeydown);
 window.addEventListener("beforeunload", () => {
   if (state.view === "study") persistStudy();
 });
